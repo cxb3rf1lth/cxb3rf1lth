@@ -149,41 +149,6 @@ Welcome to the filth. You’re one of us now.
 
 
 
----
-
-## 🗺️ Red Team & Blue Team Cycles (Mermaid Dual Attack/Defense Chains)
-
-```mermaid
-flowchart LR
-  %% Red Teaming Cycle
-  subgraph RED_TEAM["Red Teaming Cycle"]
-    RT_Prep[Reconnaissance & Planning]
-    RT_Initial[Initial Access]
-    RT_Persist[Persistence]
-    RT_PrivEsc[Privilege Escalation]
-    RT_Lateral[Lateral Movement]
-    RT_Actions[Actions on Objectives]
-    RT_Report[Reporting & Lessons Learned]
-    RT_Prep --> RT_Initial --> RT_Persist --> RT_PrivEsc --> RT_Lateral --> RT_Actions --> RT_Report
-    RT_Report --Feedback--> RT_Prep
-  end
-
-  %% Blue Teaming Cycle
-  subgraph BLUE_TEAM["Blue Teaming Cycle"]
-    BT_Prep[Preparation & Prevention]
-    BT_Monitor[Monitoring & Detection]
-    BT_Alert[Alert Triage]
-    BT_Analysis[Investigation & Analysis]
-    BT_Response[Response & Containment]
-    BT_Recovery[Recovery & Remediation]
-    BT_Learn[Lessons Learned & Improvement]
-    BT_Prep --> BT_Monitor --> BT_Alert --> BT_Analysis --> BT_Response --> BT_Recovery --> BT_Learn
-    BT_Learn --Feedback--> BT_Prep
-  end
-```
-
----
-
 
 ## 🏴‍☠️ Get Filthy
 
