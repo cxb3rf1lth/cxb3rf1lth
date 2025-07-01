@@ -110,18 +110,7 @@
 - Learning paths and guides for SOC analysts and red teamers  
 - Reference material for detection, response, and attack capabilities
 
----
 
-## 💻 Terminal Interface Preview
-
-```sh
-┌──(cyb3rf1lth㉿zedsec)-[~/SOC-lab]
-└─$ ./start-threat-hunt.sh --mode real-time
-[+] Gathering logs...
-[+] Parsing events...
-[+] Correlating threat intel...
-[+] Detections deployed! SOC ready.
-```
 
 ---
 
