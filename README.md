@@ -59,6 +59,17 @@
 
 ---
 
+
+## 🧪 Labs, Guides, and Write-Ups
+
+- Blue and red team lab environments  
+- SOC operational guides and runbooks  
+- Adversary emulation plans  
+- Detection rule repositories  
+- Research, case studies, and technical write-ups
+
+---
+
 ## ⚖️ Balanced Security Focus
 
 **Red Teaming & Blue Teaming/SOC are equally core. Projects, research, and labs empower practitioners on both sides of the cyber spectrum.**
@@ -147,15 +158,6 @@ flowchart LR
 
 ---
 
-## 🧪 Labs, Guides, and Write-Ups
-
-- Blue and red team lab environments  
-- SOC operational guides and runbooks  
-- Adversary emulation plans  
-- Detection rule repositories  
-- Research, case studies, and technical write-ups
-
----
 
 ## 🏴‍☠️ Get Filthy
 
