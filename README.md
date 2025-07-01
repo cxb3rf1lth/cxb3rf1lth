@@ -47,6 +47,43 @@
 **➡️ _DM me on GitHub or email [cxb3rf1lth@proton.me](mailto:cxb3rf1lth@proton.me) if you're interested in joining or have questions about the team/org and become a member of CFLabz!_**
 
 ---
+🚨 **Welcome to CyberFilth** 🚨
+🕸️ *Born of filth. Bound by fire. Forged for war.*
+
+This is the unholy sanctuary for hackers of all shades — from baby scriptkiddies writing their first `nmap` scan to seasoned red team demons dropping custom implants like it's a Tuesday. All are welcome here. All are *needed* here.
+
+💀 **CyberFilth isn't a project. It's a movement.**
+A swarm. A rebellion. A syndicate for those who want to *build, break, and burn the digital cancer* — scammers, predators, and cyber criminals who hide behind keyboards and prey on the innocent.
+
+🧠 Learn. 🔧 Contribute. 🔥 Wreck.
+
+---
+
+🎯 **What We Do:**
+
+* Build tools to hunt and expose scammers
+* Drop exploits on predator forums
+* Train noobs into warlords
+* Weaponize code into justice
+* Operate anonymously, surgically, vigilantly
+
+---
+
+🛡️ **Operations & Campaigns**
+
+* `#OpBlackout`: Takedowns on phishing gangs & fake tech support ops
+* `#ProjectReckoning`: Profile & target online predators using OSINT + implants
+* `#ScamHunterX`: Decoy traps, reverse scams, financial bleed-outs
+
+---
+
+👁‍•◆ **Join the vigilante grid.**
+We are not waiting for permission. We are not playing defense.
+We're rewriting the rules — one payload at a time.
+
+**Fork. Clone. Build. Break. Fight.**
+Welcome to the filth. You’re one of us now.
+
 
 ## 🧿 Who Dares Query the Filth?
 
