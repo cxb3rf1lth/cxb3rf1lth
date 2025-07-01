@@ -163,5 +163,3 @@ Check the pinned projects, browse the repo, and join the ongoing evolution of of
 
 ---
 
-> _Paste this directly into your README.md for an instant upgrade!_  
-> _All effects and visuals work on GitHub.com out of the box—no setup required._
