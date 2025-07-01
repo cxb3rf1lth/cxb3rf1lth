@@ -44,7 +44,7 @@
 
 **⚡️ _DISCLAIMER: This repository is brand new! Projects will be published and new initiatives will launch within the next few days. If you want to contribute, collaborate, or join the ZedSec and CYB3RF1LTH name, you are welcome—contributors and organization members are encouraged to join the CyberFilth team!_**
 
-**➡️ _DM me on GitHub or email [cxb3rf1lth@protonmail.me](mailto:cxb3rf1lth@proton.me) if you're interested in joining or have questions about the team!_**
+**➡️ _DM me on GitHub or email [cxb3rf1lth@proton.me](mailto:cxb3rf1lth@proton.me) if you're interested in joining or have questions about the team!_**
 
 ---
 
