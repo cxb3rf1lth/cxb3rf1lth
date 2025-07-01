@@ -38,12 +38,6 @@
 
 ---
 
-## 🧬 Contribution Snake
-
-![snake gif](https://github.com/cxb3rf1lth/cxb3rf1lth/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🏆 Trophy Case
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=cxb3rf1lth&theme=matrix&row=1&column=7)
