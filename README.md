@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00C6&center=true&vCenter=true&multiline=true&width=700&lines=Red+Team+Automaton+%F0%9F%A7%A0;Offensive+Security+Dev+%F0%9F%95%B6%EF%B8%8F;Zero-Day+Lab+Cultivator+%F0%9F%AA%9B;Cyberpunk+Tinkerer+%F0%9F%A4%AF;Ghostwriter+of+C2s%2C+Looters%2C+Loaders+%F0%9F%92%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=700&lines=Red+Team+Automaton+%F0%9F%A7%A0;Offensive+Security+Dev+%F0%9F%95%B6%EF%B8%8F;Zero-Day+Lab+Cultivator+%F0%9F%AA%9B;Cyberpunk+Tinkerer+%F0%9F%A4%AF;Ghostwriter+of+C2s%2C+Looters%2C+Loaders+%F0%9F%92%A5" alt="Typing SVG" />
 
 ---
 
@@ -35,6 +35,12 @@
 ![Bash](https://img.shields.io/badge/Bash-2E2D32?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-252525?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+---
+
+## 🧬 Contribution Snake
+
+![snake gif](https://github.com/cxb3rf1lth/cxb3rf1lth/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
