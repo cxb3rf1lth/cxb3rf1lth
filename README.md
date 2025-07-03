@@ -50,7 +50,7 @@
 🚨 **Welcome to CyberFilth** 🚨
 🕸️ *Born of filth. Bound by fire. Forged for war.*
 
-This is the unholy sanctuary for hackers of all shades — from baby scriptkiddies writing their first `nmap` scan to seasoned red team demons dropping custom implants like it's a Tuesday. All are welcome here. All are *needed* here.
+This is the unholy sanctuary for hackers of all shades — from baby scriptkiddies writing their first `nmap` scan to seasoned red team demons dropping custom implants like it's a Tuesday.And apart from all things hacking and cyber security, you will also find passion projects and self made tooling or code unrelated to cyber security(like our native darktube cli yt scraper). All are welcome here. All are *needed* here.
 
 💀 **CyberFilth isn't a project. It's a movement.**
 A swarm. A rebellion. A syndicate for those who want to *build, break, and burn the digital cancer* — scammers, predators, and cyber criminals who hide behind keyboards and prey on the innocent.
