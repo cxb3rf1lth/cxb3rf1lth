@@ -39,15 +39,7 @@
 -Automation, SIEM content, custom lab environments  
 -BlackCell architect | ZedSec ops | Autonomous lab cultivator
 ---
-<p align="left">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="120" alt="Matrix Hacking Animation"🚨 **Welcome to CyberFilth** 🚨
-- Red team & blue team automaton  
-- Offensive security dev, blue team ops, & SOC engineer  
-- Detection engineering, adversary emulation, incident response  
-- Threat hunting, log analysis, C2/implant development  
--Automation, SIEM content, custom lab environments  
--BlackCell architect | ZedSec ops | Autonomous lab cultivator />
-</p>
+
 <!--🌐 Visitor Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red" alt="Profile Views"/>
