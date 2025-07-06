@@ -16,10 +16,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
   <img src="https://img.shields.io/badge/Pwning-900C3F?logo=protonmail&logoColor=white" alt="Pwning"/>
 </p>
-<!--🌐 Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red" alt="Profile Views"/>
-</p>
 
 ---
 **Welcome to CyberFilth**
@@ -39,4 +35,8 @@ ATTENTION: If you want to contribute, collaborate, or join the ZedSec and CYB3RF
 </p>
 
 ---
+<!--🌐 Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red" alt="Profile Views"/>
+</p>
 
