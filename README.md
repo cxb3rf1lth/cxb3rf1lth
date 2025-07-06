@@ -30,7 +30,7 @@
 -Automation, SIEM content, custom lab environments  
 -BlackCell architect | ZedSec ops | Autonomous lab cultivator
 ---
-DISCLAIMER: This repository is brand new! Projects will be published and new initiatives will launch within the next few days. If you want to contribute, collaborate, or join the ZedSec and CYB3RF1LTH name, you are welcome—contributors and organization members are encouraged to join the CyberFilth team!
+ATTENTION: If you want to contribute, collaborate, or join the ZedSec and CYB3RF1LTH name, you are welcome—contributors and organization members are encouraged to join the CyberFilth name!
 ---
 
 <!--🔥 Animated Snake Activity Graph (GitHub Contribution Snake) -->
