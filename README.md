@@ -27,8 +27,8 @@
 - Offensive security dev, blue team ops, & SOC engineer  
 - Detection engineering, adversary emulation, incident response  
 - Threat hunting, log analysis, C2/implant development  
--Automation, SIEM content, custom lab environments  
--BlackCell architect | ZedSec ops | Autonomous lab cultivator
+- Automation, SIEM content, custom lab environments  
+- BlackCell architect | ZedSec ops | Autonomous lab cultivator
 ---
 ATTENTION: If you want to contribute, collaborate, or join the ZedSec and CYB3RF1LTH name, you are welcome—contributors and organization members are encouraged to join the CyberFilth name!
 ---
