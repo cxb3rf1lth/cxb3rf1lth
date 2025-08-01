@@ -1,5 +1,5 @@
 <p align="center" style="background-color:#101013;">
-  <img src="file:///home/cxb3rf1lth/Pictures/20250801_1515_Cyber%20Owl%20Vigilance_remix_01k1k37kdresza0tej3vwdct7p.gif" style="border-radius:12px;box-shadow:0 0 15px #FF003C,0 0 30px #18181c;" />
+  <img src="https://github.com/cxb3rf1lth/GIF/blob/main/20250801_1515_Cyber%20Owl%20Vigilance_remix_01k1k37kdresza0tej3vwdct7p.gif" style="border-radius:12px;box-shadow:0 0 15px #FF003C,0 0 30px #18181c;" />
 </p>
 
 <p align="center">
