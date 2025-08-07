@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1500&color=FF003C&center=true&vCenter=true&width=900&lines=Welcome+to+BlackCell+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend.;root%40cxb3rfilth%3A~%23+Hack+the+Planet" alt="Typing SVG" />
-</p>
 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="Your Image Badge" />
 
 ```                                                                                                  
 ▀█████████▄   ▄█          ▄████████  ▄████████    ▄█   ▄█▄  ▄████████    ▄████████  ▄█        ▄█       
@@ -15,7 +13,9 @@
              ▀                                   ▀                                 ▀         ▀               
 ```
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1500&color=FF003C&center=true&vCenter=true&width=900&lines=Welcome+to+BlackCell+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend.;root%40cxb3rfilth%3A~%23+Hack+the+Planet" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-18181c?style=for-the-badge&logo=python&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/Bash-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
@@ -48,7 +48,7 @@
 - Automation, SIEM content, custom lab environments  
 - BlackCell architect | ZedSec ops | Autonomous lab cultivator
 <!-- ===================== CONTACT ME ===================== -->
- <img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="Your Image Badge" />
+
  
 ---
 
