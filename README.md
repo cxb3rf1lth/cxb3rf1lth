@@ -16,8 +16,6 @@
 ```
 ---
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4254051" style='border:none;'></iframe>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-18181c?style=for-the-badge&logo=python&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/Bash-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
@@ -38,8 +36,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red" alt="Profile Views"/>
 </p>
+                  <img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="Your Image Badge" />
 
  ---
+ 
   **Welcome to BlackCellSecurity**
 
 - Red team & blue team automaton  
@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
   <img src="https://img.shields.io/badge/Pwning-900C3F?logo=protonmail&logoColor=white" alt="Pwning"/>
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" style="max-width: 100%;" />
 </p>
