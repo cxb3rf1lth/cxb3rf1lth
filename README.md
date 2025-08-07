@@ -16,6 +16,8 @@
 ```
 ---
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4254051" style='border:none;'></iframe>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-18181c?style=for-the-badge&logo=python&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/Bash-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
@@ -49,6 +51,7 @@
 <!-- ===================== CONTACT ME ===================== -->
 
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Red--Team-%23FF5555?style=flat-square&logo=hackthebox&logoColor=white" alt="Red Team"/>
   <img src="https://img.shields.io/badge/Blue--Team-%23007ACC?style=flat-square&logo=defcon&logoColor=white" alt="Blue Team"/>
