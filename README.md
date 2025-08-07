@@ -36,10 +36,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red" alt="Profile Views"/>
 </p>
-                  <img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="Your Image Badge" />
 
  ---
- 
+
   **Welcome to BlackCellSecurity**
 
 - Red team & blue team automaton  
@@ -49,7 +48,8 @@
 - Automation, SIEM content, custom lab environments  
 - BlackCell architect | ZedSec ops | Autonomous lab cultivator
 <!-- ===================== CONTACT ME ===================== -->
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="Your Image Badge" />
+ 
 ---
 
 <p align="center">
