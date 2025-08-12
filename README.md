@@ -1,5 +1,4 @@
-
- <img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="Your Image Badge" />
 
 ```                                                                                                  
 ▀█████████▄   ▄█          ▄████████  ▄████████    ▄█   ▄█▄  ▄████████    ▄████████  ▄█        ▄█       
