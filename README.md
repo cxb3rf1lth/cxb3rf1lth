@@ -48,6 +48,101 @@
 - BlackCell architect | ZedSec ops | Autonomous lab cultivator
 <!-- ===================== CONTACT ME ===================== -->
 
+---
+
+## 📌 Featured Arsenal 
+<div align="center">
+
+### 🔥 Core Security Tools & Frameworks
+
+<table>
+<tr>
+<td width="50%">
+<div align="center">
+  <a href="https://github.com/cxb3rf1lth/Bl4ckC3ll_PANTHEON">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Bl4ckC3ll_PANTHEON&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=21262d&hide_border=false" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recon-FF003C?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuln_Scanner-18181c?style=flat-square&logo=shield&logoColor=FF003C" />
+</div>
+</td>
+<td width="50%">
+<div align="center">
+  <a href="https://github.com/cxb3rf1lth/Watcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Watcher&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=21262d&hide_border=false" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-FF6B35?style=flat-square&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reconnaissance-18181c?style=flat-square&logo=radar&logoColor=FF003C" />
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<div align="center">
+  <a href="https://github.com/cxb3rf1lth/Hoaxshell-villain_cheatsheet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Hoaxshell-villain_cheatsheet&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=21262d&hide_border=false" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/CheatSheet-28A745?style=flat-square&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/C2_Framework-FF003C?style=flat-square&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Team-900C3F?style=flat-square&logo=hackthebox&logoColor=white" />
+</div>
+</td>
+<td width="50%">
+<div align="center">
+  <a href="https://github.com/cxb3rf1lth/QemuVirt-Setup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=QemuVirt-Setup&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=21262d&hide_border=false" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization-0078D4?style=flat-square&logo=qemu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lab_Setup-18181c?style=flat-square&logo=server&logoColor=FF003C" />
+</div>
+</td>
+</tr>
+</table>
+
+<details>
+<summary>🔍 <strong>Expand to see more projects</strong></summary>
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<div align="center">
+  <a href="https://github.com/cxb3rf1lth/Bl4vkC3ll_Angry_Scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Bl4vkC3ll_Angry_Scanner&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=21262d&hide_border=false" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Scanner-FF003C?style=flat-square&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-18181c?style=flat-square&logo=shield-alt&logoColor=FF003C" />
+</div>
+</td>
+<td width="50%">
+<div align="center">
+  <a href="https://github.com/cxb3rf1lth/Recursive_Hydra_Prompt_Engineering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Recursive_Hydra_Prompt_Engineering&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=21262d&hide_border=false" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/AI-FF6B35?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-18181c?style=flat-square&logo=brain&logoColor=FF003C" />
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+</details>
+
+</div>
+
+---
+
  
 ---
 
