@@ -263,7 +263,14 @@ Security Automation • Detection Engineering • Adversary Emulation
 </div>
 
 ---
-<img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="Your Image Badge" />
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="TryHackMe Profile Badge" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TryHackMe-Rank%20%23TOP%201%25-FF003C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Rank"/>
+<img src="https://img.shields.io/badge/Capture%20The%20Flag-Champion-gold?style=for-the-badge&logo=flag&logoColor=black" alt="CTF Champion"/>
+</p>
 
 ---
 
@@ -295,6 +302,7 @@ Security Automation • Detection Engineering • Adversary Emulation
 
 <p align="center">
 <!--START_SECTION:activity-->
+*Loading recent GitHub activity...* 🔄
 <!--END_SECTION:activity-->
 </p>
 
