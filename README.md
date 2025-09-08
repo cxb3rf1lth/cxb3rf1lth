@@ -52,45 +52,59 @@
 
  ---
 
- **Welcome to BlackCellSecurity**
+## **Welcome to BlackCellSecurity**
 
-- 🔴 Red team & blue team automaton  
-- 🛡️ Offensive security dev, blue team ops, & SOC engineer  
-- 🎯 Detection engineering, adversary emulation, incident response  
-- 🔍 Threat hunting, log analysis, C2/implant development  
-- ⚙️ Automation, SIEM content, custom lab environments  
-- 🏴‍☠️ BlackCell architect | ZedSec ops | Autonomous lab cultivator
+<div align="center">
 
-### 🎖️ **Expertise Matrix**
+**Advanced Cybersecurity Operations & Development**
+
+</div>
+
+- **◆** Red team & blue team automation
+- **▣** Offensive security dev, blue team ops, & SOC engineer
+- **◉** Detection engineering, adversary emulation, incident response
+- **◈** Threat hunting, log analysis, C2/implant development
+- **▦** Automation, SIEM content, custom lab environments
+- **⬛** BlackCell architect | ZedSec ops | Autonomous lab cultivator
+
+---
+
+### ★ **Expertise Matrix**
+
+---
 
 <table align="center">
 <tr>
-<td align="center"><strong>🔴 Red Team</strong><br>
+<td align="center"><strong>◆ Red Team</strong><br>
 <img src="https://img.shields.io/badge/Skill%20Level-Expert-FF003C?style=flat-square&logo=target&logoColor=white"/><br>
 Penetration Testing • Exploit Development • Social Engineering
 </td>
-<td align="center"><strong>🔵 Blue Team</strong><br>
+<td align="center"><strong>◇ Blue Team</strong><br>
 <img src="https://img.shields.io/badge/Skill%20Level-Advanced-0066CC?style=flat-square&logo=shield&logoColor=white"/><br>
 Incident Response • Threat Hunting • DFIR
 </td>
-<td align="center"><strong>🟣 Purple Team</strong><br>
+<td align="center"><strong>♦ Purple Team</strong><br>
 <img src="https://img.shields.io/badge/Skill%20Level-Expert-9900CC?style=flat-square&logo=infinity&logoColor=white"/><br>
 Security Automation • Detection Engineering • Adversary Emulation
 </td>
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="35" height="35" /> **Featured Arsenal**
+---
+
+## ⚔ **Featured Arsenal**
+
+---
 
 <div align="center">
 
-### 🔴 **CORE SECURITY TOOLS** 🔴
+### ◆ **CORE SECURITY TOOLS** ◆
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-**🛡️ [PANTHEON](https://github.com/cxb3rf1lth/Bl4ckC3ll_PANTHEON)**
+**▣ [PANTHEON](https://github.com/cxb3rf1lth/Bl4ckC3ll_PANTHEON)**
 <br>
 <a href="https://github.com/cxb3rf1lth/Bl4ckC3ll_PANTHEON">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Bl4ckC3ll_PANTHEON&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
@@ -103,7 +117,7 @@ Security Automation • Detection Engineering • Adversary Emulation
 </td>
 <td align="center" width="50%">
 
-**🎯 [Target Arsenal Hub](https://github.com/cxb3rf1lth)**
+**◉ [Target Arsenal Hub](https://github.com/cxb3rf1lth)**
 <br>
 <a href="https://github.com/cxb3rf1lth">
 <img src="https://github-readme-stats.vercel.app/api?username=cxb3rf1lth&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&hide_border=false&cache_seconds=86400&count_private=true" width="400"/>
@@ -117,7 +131,7 @@ Security Automation • Detection Engineering • Adversary Emulation
 <tr>
 <td align="center" width="50%">
 
-**📋 [Hoaxshell-Villain Cheatsheet](https://github.com/cxb3rf1lth/Hoaxshell-villain_cheatsheet)**
+**■ [Hoaxshell-Villain Cheatsheet](https://github.com/cxb3rf1lth/Hoaxshell-villain_cheatsheet)**
 <br>
 <a href="https://github.com/cxb3rf1lth/Hoaxshell-villain_cheatsheet">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Hoaxshell-villain_cheatsheet&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
@@ -129,7 +143,7 @@ Security Automation • Detection Engineering • Adversary Emulation
 </td>
 <td align="center" width="50%">
 
-**⚙️ [QemuVirt-Setup](https://github.com/cxb3rf1lth/QemuVirt-Setup)**
+**▦ [QemuVirt-Setup](https://github.com/cxb3rf1lth/QemuVirt-Setup)**
 <br>
 <a href="https://github.com/cxb3rf1lth/QemuVirt-Setup">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=QemuVirt-Setup&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
@@ -143,7 +157,7 @@ Security Automation • Detection Engineering • Adversary Emulation
 <tr>
 <td align="center" width="50%">
 
-**🔍 [BCAR](https://github.com/cxb3rf1lth/BCAR)**
+**◈ [BCAR](https://github.com/cxb3rf1lth/BCAR)**
 <br>
 <a href="https://github.com/cxb3rf1lth/BCAR">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=BCAR&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
@@ -155,7 +169,7 @@ Security Automation • Detection Engineering • Adversary Emulation
 </td>
 <td align="center" width="50%">
 
-**🔐 [Security Portfolio](https://github.com/cxb3rf1lth?tab=repositories)**
+**▪ [Security Portfolio](https://github.com/cxb3rf1lth?tab=repositories)**
 <br>
 <a href="https://github.com/cxb3rf1lth?tab=repositories">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxb3rf1lth&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&hide_border=false&cache_seconds=86400" width="400"/>
@@ -169,14 +183,14 @@ Security Automation • Detection Engineering • Adversary Emulation
 </table>
 
 <details>
-<summary><b>🔻 Additional Arsenal</b></summary>
+<summary><b>▼ Additional Arsenal</b></summary>
 <br>
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-**⚡ [Angry Scanner](https://github.com/cxb3rf1lth/Bl4vkC3ll_Angry_Scanner)**
+**◆ [Angry Scanner](https://github.com/cxb3rf1lth/Bl4vkC3ll_Angry_Scanner)**
 <br>
 <a href="https://github.com/cxb3rf1lth/Bl4vkC3ll_Angry_Scanner">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Bl4vkC3ll_Angry_Scanner&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
@@ -185,7 +199,7 @@ Security Automation • Detection Engineering • Adversary Emulation
 </td>
 <td align="center" width="50%">
 
-**🧠 [Recursive Hydra](https://github.com/cxb3rf1lth/Recursive_Hydra_Prompt_Engineering)**
+**▧ [Recursive Hydra](https://github.com/cxb3rf1lth/Recursive_Hydra_Prompt_Engineering)**
 <br>
 <a href="https://github.com/cxb3rf1lth/Recursive_Hydra_Prompt_Engineering">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Recursive_Hydra_Prompt_Engineering&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
@@ -197,7 +211,7 @@ Security Automation • Detection Engineering • Adversary Emulation
 
 </details>
 
-### 📊 **Real-Time Analytics**
+### ■ **Real-Time Analytics**
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cxb3rf1lth&theme=react-dark&bg_color=0d1117&title_color=FF003C&color=c9d1d9&line=FF003C&point=FF003C&area=true&hide_border=false&border_color=30363d" alt="Activity Graph" />
@@ -209,11 +223,15 @@ Security Automation • Detection Engineering • Adversary Emulation
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="35" height="35" /> **Connect & Collaborate**
+---
+
+## ▬ **Connect & Collaborate**
+
+---
 
 <div align="center">
 
-### 🔗 **Professional Network**
+### ▬ **Professional Network**
 
 <p align="center">
 <a href="https://tryhackme.com/p/Bl4ckC3llSec">
@@ -231,7 +249,7 @@ Security Automation • Detection Engineering • Adversary Emulation
 </a>
 </p>
 
-### 🎖️ **Certifications & Achievements**
+### ★ **Certifications & Achievements**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security+-Certified-FF003C?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+"/>
@@ -242,7 +260,7 @@ Security Automation • Detection Engineering • Adversary Emulation
   <img src="https://img.shields.io/badge/GCIH-Handler-red?style=for-the-badge&logo=sans&logoColor=white" alt="GCIH"/>
 </p>
 
-### 🛡️ **Operational Status**
+### ▣ **Operational Status**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Red--Team-%23FF5555?style=flat-square&logo=hackthebox&logoColor=white" alt="Red Team"/>
@@ -274,23 +292,27 @@ Security Automation • Detection Engineering • Adversary Emulation
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" /> **Activity & Contributions**
+---
+
+## ◪ **Activity & Contributions**
+
+---
 
 <div align="center">
 
-### 🔥 **GitHub Activity**
+### ▲ **GitHub Activity**
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cxb3rf1lth&theme=dark&background=0d1117&stroke=FF003C&ring=FF003C&fire=FF003C&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF003C&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false&border=30363d" alt="GitHub Streak" />
 </p>
 
-### 🐍 **Contribution Snake**
+### ━ **Contribution Snake**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" style="max-width: 100%;" />
 </p>
 
-### 👁️ **Profile Analytics**
+### ◉ **Profile Analytics**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red" alt="Profile Views"/>
@@ -298,15 +320,15 @@ Security Automation • Detection Engineering • Adversary Emulation
   <img src="https://img.shields.io/github/stars/cxb3rf1lth?style=flat-square&color=FF003C&labelColor=0d1117" alt="Total Stars"/>
 </p>
 
-### ⚡ **Recent Activity**
+### ◆ **Recent Activity**
 
 <p align="center">
 <!--START_SECTION:activity-->
-*Loading recent GitHub activity...* 🔄
+*Loading recent GitHub activity...* ◉
 <!--END_SECTION:activity-->
 </p>
 
-### 🏆 **GitHub Trophies**
+### ★ **GitHub Trophies**
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=cxb3rf1lth&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
@@ -314,19 +336,19 @@ Security Automation • Detection Engineering • Adversary Emulation
 
 </div>
 
-<!--🔥 Animated Snake Activity Graph (GitHub Contribution Snake) -->
+<!--▲ Animated Snake Activity Graph (GitHub Contribution Snake) -->
 ---
 
-### 🎯 **Mission Statement**
+### ◉ **Mission Statement**
 
 <p align="center">
 <i>"Bridging the gap between offense and defense through innovative security solutions, automated threat detection, and continuous learning in the ever-evolving landscape of cybersecurity."</i>
 </p>
 
-### 📈 **Current Focus**
+### ■ **Current Focus**
 
 <p align="center">
-🔍 <strong>Advanced Threat Hunting</strong> | 🛡️ <strong>SOC Automation</strong> | ⚡ <strong>Red Team Operations</strong> | 🔧 <strong>Tool Development</strong>
+◈ <strong>Advanced Threat Hunting</strong> | ▣ <strong>SOC Automation</strong> | ◆ <strong>Red Team Operations</strong> | ▦ <strong>Tool Development</strong>
 </p>
 
 ---
@@ -336,13 +358,13 @@ Security Automation • Detection Engineering • Adversary Emulation
 </p>
 
 <p align="center">
-  <sub>💀 <strong>Remember:</strong> With great power comes great responsibility. Use these tools ethically and legally. 💀</sub>
+  <sub>⬛ <strong>Remember:</strong> With great power comes great responsibility. Use these tools ethically and legally. ⬛</sub>
   <br>
-  <sub>🔒 All security research is conducted in authorized environments only 🔒</sub>
+  <sub>▣ All security research is conducted in authorized environments only ▣</sub>
 </p>
 
 <!-- Badge Display -->
 
-<!--🌐 Visitor Counter -->
+<!--◉ Visitor Counter -->
 
 
