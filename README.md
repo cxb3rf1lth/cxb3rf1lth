@@ -17,14 +17,30 @@
   <img src="https://img.shields.io/badge/Python-18181c?style=for-the-badge&logo=python&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/Bash-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/JavaScript-18181c?style=for-the-badge&logo=javascript&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/PowerShell-18181c?style=for-the-badge&logo=powershell&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/C++-18181c?style=for-the-badge&logo=cplusplus&logoColor=FF003C"/>
+  <br>
   <img src="https://img.shields.io/badge/Linux-18181c?style=for-the-badge&logo=linux&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/Arch-18181c?style=for-the-badge&logo=arch-linux&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/PowerShell-18181c?style=for-the-badge&logo=powershell&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Kali-18181c?style=for-the-badge&logo=kalilinux&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Windows-18181c?style=for-the-badge&logo=windows&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/macOS-18181c?style=for-the-badge&logo=apple&logoColor=FF003C"/>
+  <br>
   <img src="https://img.shields.io/badge/Nmap-18181c?style=for-the-badge&logo=nmap&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/Wireshark-18181c?style=for-the-badge&logo=wireshark&logoColor=FF003C"/>
   <img src="https://img.shields.io/badge/Metasploit-18181c?style=for-the-badge&logo=metasploit&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Networking-18181c?style=for-the-badge&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-18181c?style=for-the-badge&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/OWASP-18181c?style=for-the-badge&logo=owasp&logoColor=FF003C"/>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-18181c?style=for-the-badge&logo=docker&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Kubernetes-18181c?style=for-the-badge&logo=kubernetes&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/AWS-18181c?style=for-the-badge&logo=amazon-aws&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Azure-18181c?style=for-the-badge&logo=microsoft-azure&logoColor=FF003C"/>
+  <img src="https://img.shields.io/badge/Terraform-18181c?style=for-the-badge&logo=terraform&logoColor=FF003C"/>
+  <br>
   <img src="https://img.shields.io/badge/Exploit%20Development-FF003C?style=for-the-badge&logoColor=18181c"/>
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-FF003C?style=for-the-badge&logoColor=18181c"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-FF003C?style=for-the-badge&logoColor=18181c"/>
 </p>
 
 <p align="center" style="background-color:#101013;">
@@ -36,14 +52,33 @@
 
  ---
 
-  **Welcome to BlackCellSecurity**
+ **Welcome to BlackCellSecurity**
 
-- Red team & blue team automaton  
-- Offensive security dev, blue team ops, & SOC engineer  
-- Detection engineering, adversary emulation, incident response  
-- Threat hunting, log analysis, C2/implant development  
-- Automation, SIEM content, custom lab environments  
-- BlackCell architect | ZedSec ops | Autonomous lab cultivator
+- 🔴 Red team & blue team automaton  
+- 🛡️ Offensive security dev, blue team ops, & SOC engineer  
+- 🎯 Detection engineering, adversary emulation, incident response  
+- 🔍 Threat hunting, log analysis, C2/implant development  
+- ⚙️ Automation, SIEM content, custom lab environments  
+- 🏴‍☠️ BlackCell architect | ZedSec ops | Autonomous lab cultivator
+
+### 🎖️ **Expertise Matrix**
+
+<table align="center">
+<tr>
+<td align="center"><strong>🔴 Red Team</strong><br>
+<img src="https://img.shields.io/badge/Skill%20Level-Expert-FF003C?style=flat-square&logo=target&logoColor=white"/><br>
+Penetration Testing • Exploit Development • Social Engineering
+</td>
+<td align="center"><strong>🔵 Blue Team</strong><br>
+<img src="https://img.shields.io/badge/Skill%20Level-Advanced-0066CC?style=flat-square&logo=shield&logoColor=white"/><br>
+Incident Response • Threat Hunting • DFIR
+</td>
+<td align="center"><strong>🟣 Purple Team</strong><br>
+<img src="https://img.shields.io/badge/Skill%20Level-Expert-9900CC?style=flat-square&logo=infinity&logoColor=white"/><br>
+Security Automation • Detection Engineering • Adversary Emulation
+</td>
+</tr>
+</table>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="35" height="35" /> **Featured Arsenal**
 
@@ -68,7 +103,14 @@
 </td>
 <td align="center" width="50%">
 
-
+**🎯 [Target Arsenal Hub](https://github.com/cxb3rf1lth)**
+<br>
+<a href="https://github.com/cxb3rf1lth">
+<img src="https://github-readme-stats.vercel.app/api?username=cxb3rf1lth&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&hide_border=false&cache_seconds=86400&count_private=true" width="400"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/Multi--Tool-FF003C?style=for-the-badge&logoColor=18181c"/>
+<img src="https://img.shields.io/badge/Arsenal-18181c?style=for-the-badge&logoColor=FF003C"/>
 
 </td>
 </tr>
@@ -113,6 +155,15 @@
 </td>
 <td align="center" width="50%">
 
+**🔐 [Security Portfolio](https://github.com/cxb3rf1lth?tab=repositories)**
+<br>
+<a href="https://github.com/cxb3rf1lth?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxb3rf1lth&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&hide_border=false&cache_seconds=86400" width="400"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/Repository-FF003C?style=for-the-badge&logoColor=18181c"/>
+<img src="https://img.shields.io/badge/Portfolio-18181c?style=for-the-badge&logoColor=FF003C"/>
+
 </td>
 </tr>
 </table>
@@ -146,14 +197,14 @@
 
 </details>
 
-### 📊 **Arsenal Statistics**
+### 📊 **Real-Time Analytics**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cxb3rf1lth&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&hide_border=false&cache_seconds=86400" alt="BlackCell Security Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cxb3rf1lth&theme=react-dark&bg_color=0d1117&title_color=FF003C&color=c9d1d9&line=FF003C&point=FF003C&area=true&hide_border=false&border_color=30363d" alt="Activity Graph" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxb3rf1lth&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&hide_border=false&cache_seconds=86400" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cxb3rf1lth&theme=github_dark&show_icons=true&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d" alt="Profile Summary" />
 </p>
 
 </div>
@@ -171,6 +222,24 @@
 <a href="https://github.com/cxb3rf1lth">
 <img src="https://img.shields.io/badge/GitHub-cxb3rf1lth-18181c?style=for-the-badge&logo=github&logoColor=FF003C"/>
 </a>
+<br>
+<a href="mailto:contact@blackcellsecurity.dev">
+<img src="https://img.shields.io/badge/Email-BlackCell-FF003C?style=for-the-badge&logo=protonmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/blackcellsecurity">
+<img src="https://img.shields.io/badge/LinkedIn-BlackCellSec-18181c?style=for-the-badge&logo=linkedin&logoColor=FF003C"/>
+</a>
+</p>
+
+### 🎖️ **Certifications & Achievements**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security+-Certified-FF003C?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+"/>
+  <img src="https://img.shields.io/badge/OSCP-Pursuing-orange?style=for-the-badge&logo=offsec&logoColor=white" alt="OSCP"/>
+  <img src="https://img.shields.io/badge/CEH-Ethical%20Hacker-green?style=for-the-badge&logo=eccouncil&logoColor=white" alt="CEH"/>
+  <br>
+  <img src="https://img.shields.io/badge/CySA+-Analyst-blue?style=for-the-badge&logo=comptia&logoColor=white" alt="CySA+"/>
+  <img src="https://img.shields.io/badge/GCIH-Handler-red?style=for-the-badge&logo=sans&logoColor=white" alt="GCIH"/>
 </p>
 
 ### 🛡️ **Operational Status**
@@ -179,15 +248,29 @@
   <img src="https://img.shields.io/badge/Red--Team-%23FF5555?style=flat-square&logo=hackthebox&logoColor=white" alt="Red Team"/>
   <img src="https://img.shields.io/badge/Blue--Team-%23007ACC?style=flat-square&logo=defcon&logoColor=white" alt="Blue Team"/>
   <img src="https://img.shields.io/badge/SOC-Active-brightgreen?style=flat-square&logo=splunk&logoColor=white" alt="SOC"/>
+  <img src="https://img.shields.io/badge/DFIR-Ready-orange?style=flat-square&logo=forensics&logoColor=white" alt="DFIR"/>
+  <br>
   <img src="https://img.shields.io/badge/Linux-Friendly-yellow?logo=linux" alt="Linux"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
   <img src="https://img.shields.io/badge/Pwning-900C3F?logo=protonmail&logoColor=white" alt="Pwning"/>
+  <img src="https://img.shields.io/badge/CTF-Champion-gold?style=flat-square&logo=flag&logoColor=white" alt="CTF"/>
+  <br>
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square&logo=statuspage&logoColor=white" alt="Online"/>
+  <img src="https://img.shields.io/badge/Response-24%2F7-red?style=flat-square&logo=clockify&logoColor=white" alt="24/7"/>
+  <img src="https://img.shields.io/badge/Coffee-Powered-brown?style=flat-square&logo=coffee&logoColor=white" alt="Coffee"/>
 </p>
 
 </div>
 
 ---
-<img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="Your Image Badge" />
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="TryHackMe Profile Badge" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TryHackMe-Rank%20%23TOP%201%25-FF003C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Rank"/>
+<img src="https://img.shields.io/badge/Capture%20The%20Flag-Champion-gold?style=for-the-badge&logo=flag&logoColor=black" alt="CTF Champion"/>
+</p>
 
 ---
 
@@ -212,12 +295,51 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/cxb3rf1lth?style=flat-square&color=FF003C&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/cxb3rf1lth?style=flat-square&color=FF003C&labelColor=0d1117" alt="Total Stars"/>
+</p>
+
+### ⚡ **Recent Activity**
+
+<p align="center">
+<!--START_SECTION:activity-->
+*Loading recent GitHub activity...* 🔄
+<!--END_SECTION:activity-->
+</p>
+
+### 🏆 **GitHub Trophies**
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=cxb3rf1lth&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 </div>
 
 <!--🔥 Animated Snake Activity Graph (GitHub Contribution Snake) -->
 ---
+
+### 🎯 **Mission Statement**
+
+<p align="center">
+<i>"Bridging the gap between offense and defense through innovative security solutions, automated threat detection, and continuous learning in the ever-evolving landscape of cybersecurity."</i>
+</p>
+
+### 📈 **Current Focus**
+
+<p align="center">
+🔍 <strong>Advanced Threat Hunting</strong> | 🛡️ <strong>SOC Automation</strong> | ⚡ <strong>Red Team Operations</strong> | 🔧 <strong>Tool Development</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF003C&height=120&section=footer&text=Stay%20Secure&fontSize=24&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <sub>💀 <strong>Remember:</strong> With great power comes great responsibility. Use these tools ethically and legally. 💀</sub>
+  <br>
+  <sub>🔒 All security research is conducted in authorized environments only 🔒</sub>
+</p>
 
 <!-- Badge Display -->
 
