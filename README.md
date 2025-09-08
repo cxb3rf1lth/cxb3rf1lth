@@ -105,6 +105,23 @@
 
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+
+**🔍 [BCAR](https://github.com/cxb3rf1lth/BCAR)**
+<br>
+<a href="https://github.com/cxb3rf1lth/BCAR">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=BCAR&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
+</a>
+<br>
+<img src="https://img.shields.io/badge/Shell-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
+<img src="https://img.shields.io/badge/Auto%20Recon-FF003C?style=for-the-badge&logoColor=18181c"/>
+
+</td>
+<td align="center" width="50%">
+
+</td>
+</tr>
 </table>
 
 <details>
