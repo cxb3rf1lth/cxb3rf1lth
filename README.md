@@ -68,14 +68,7 @@
 </td>
 <td align="center" width="50%">
 
-**👁️ [Watcher](https://github.com/cxb3rf1lth/Watcher)**
-<br>
-<a href="https://github.com/cxb3rf1lth/Watcher">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Watcher&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
-</a>
-<br>
-<img src="https://img.shields.io/badge/Automation-FF003C?style=for-the-badge&logoColor=18181c"/>
-<img src="https://img.shields.io/badge/Monitoring-18181c?style=for-the-badge&logoColor=FF003C"/>
+
 
 </td>
 </tr>
