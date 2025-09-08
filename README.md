@@ -52,16 +52,26 @@
 
  ---
 
- **Welcome to BlackCellSecurity**
+## **Welcome to BlackCellSecurity**
 
-- ◆ Red team & blue team automaton  
-- ▣ Offensive security dev, blue team ops, & SOC engineer  
-- ◉ Detection engineering, adversary emulation, incident response  
-- ◈ Threat hunting, log analysis, C2/implant development  
-- ▦ Automation, SIEM content, custom lab environments  
-- ⬛ BlackCell architect | ZedSec ops | Autonomous lab cultivator
+<div align="center">
+
+**Advanced Cybersecurity Operations & Development**
+
+</div>
+
+- **◆** Red team & blue team automation
+- **▣** Offensive security dev, blue team ops, & SOC engineer
+- **◉** Detection engineering, adversary emulation, incident response
+- **◈** Threat hunting, log analysis, C2/implant development
+- **▦** Automation, SIEM content, custom lab environments
+- **⬛** BlackCell architect | ZedSec ops | Autonomous lab cultivator
+
+---
 
 ### ★ **Expertise Matrix**
+
+---
 
 <table align="center">
 <tr>
@@ -80,7 +90,11 @@ Security Automation • Detection Engineering • Adversary Emulation
 </tr>
 </table>
 
+---
+
 ## ⚔ **Featured Arsenal**
+
+---
 
 <div align="center">
 
@@ -209,7 +223,11 @@ Security Automation • Detection Engineering • Adversary Emulation
 
 </div>
 
+---
+
 ## ▬ **Connect & Collaborate**
+
+---
 
 <div align="center">
 
@@ -274,7 +292,11 @@ Security Automation • Detection Engineering • Adversary Emulation
 
 ---
 
+---
+
 ## ◪ **Activity & Contributions**
+
+---
 
 <div align="center">
 
@@ -314,7 +336,7 @@ Security Automation • Detection Engineering • Adversary Emulation
 
 </div>
 
-<!--🔥 Animated Snake Activity Graph (GitHub Contribution Snake) -->
+<!--▲ Animated Snake Activity Graph (GitHub Contribution Snake) -->
 ---
 
 ### ◉ **Mission Statement**
@@ -343,6 +365,6 @@ Security Automation • Detection Engineering • Adversary Emulation
 
 <!-- Badge Display -->
 
-<!--🌐 Visitor Counter -->
+<!--◉ Visitor Counter -->
 
 
