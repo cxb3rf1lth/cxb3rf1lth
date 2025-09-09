@@ -1,4 +1,6 @@
-
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1500&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Bl4ckC3ll_Security;I'm+cxb3rf1lth%2FZee;Ethical+hacker.+Penetration+tester.;Bug+bounty+noob.;And+overall+cyber+security+fanatic." alt="Typing SVG" />
+</div>
 
 ---
 
@@ -20,9 +22,7 @@
 ```
 ### <span style="color: #ff0000;">◉</span> Hack The Planet <span style="color: #ff0000;">◉</span>
 ---
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1500&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Bl4ckC3ll_Security;I'm+cxb3rf1lth%2FZee;Ethical+hacker.+Penetration+tester.;Bug+bounty+noob.;And+overall+cyber+security+fanatic." alt="Typing SVG" />
-</div>
+
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border-left: 4px solid #ff0000; padding: 15px; margin: 10px 0;">
 
  **Cybersecurity enthusiast and researcher**  
