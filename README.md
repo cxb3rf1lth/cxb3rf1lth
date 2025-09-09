@@ -249,45 +249,11 @@ Security Automation • Detection Engineering • Adversary Emulation
 </a>
 </p>
 
-### ★ **Certifications & Achievements**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Security+-Certified-FF003C?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+"/>
-  <img src="https://img.shields.io/badge/OSCP-Pursuing-orange?style=for-the-badge&logo=offsec&logoColor=white" alt="OSCP"/>
-  <img src="https://img.shields.io/badge/CEH-Ethical%20Hacker-green?style=for-the-badge&logo=eccouncil&logoColor=white" alt="CEH"/>
-  <br>
-  <img src="https://img.shields.io/badge/CySA+-Analyst-blue?style=for-the-badge&logo=comptia&logoColor=white" alt="CySA+"/>
-  <img src="https://img.shields.io/badge/GCIH-Handler-red?style=for-the-badge&logo=sans&logoColor=white" alt="GCIH"/>
-</p>
-
-### ▣ **Operational Status**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Red--Team-%23FF5555?style=flat-square&logo=hackthebox&logoColor=white" alt="Red Team"/>
-  <img src="https://img.shields.io/badge/Blue--Team-%23007ACC?style=flat-square&logo=defcon&logoColor=white" alt="Blue Team"/>
-  <img src="https://img.shields.io/badge/SOC-Active-brightgreen?style=flat-square&logo=splunk&logoColor=white" alt="SOC"/>
-  <img src="https://img.shields.io/badge/DFIR-Ready-orange?style=flat-square&logo=forensics&logoColor=white" alt="DFIR"/>
-  <br>
-  <img src="https://img.shields.io/badge/Linux-Friendly-yellow?logo=linux" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pwning-900C3F?logo=protonmail&logoColor=white" alt="Pwning"/>
-  <img src="https://img.shields.io/badge/CTF-Champion-gold?style=flat-square&logo=flag&logoColor=white" alt="CTF"/>
-  <br>
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square&logo=statuspage&logoColor=white" alt="Online"/>
-  <img src="https://img.shields.io/badge/Response-24%2F7-red?style=flat-square&logo=clockify&logoColor=white" alt="24/7"/>
-  <img src="https://img.shields.io/badge/Coffee-Powered-brown?style=flat-square&logo=coffee&logoColor=white" alt="Coffee"/>
-</p>
-
 </div>
 
 ---
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="TryHackMe Profile Badge" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/TryHackMe-Rank%20%23TOP%201%25-FF003C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Rank"/>
-<img src="https://img.shields.io/badge/Capture%20The%20Flag-Champion-gold?style=for-the-badge&logo=flag&logoColor=black" alt="CTF Champion"/>
 </p>
 
 ---
