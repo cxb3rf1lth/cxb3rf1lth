@@ -9,328 +9,421 @@
 ▄█████████▀  █████▄▄██   ███    █▀  ████████▀    ███   ▀█▀ ████████▀    ██████████ █████▄▄██ █████▄▄██ 
              ▀                                   ▀                                 ▀         ▀               
 ```
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1500&color=FF003C&center=true&vCenter=true&width=900&lines=Welcome+to+BlackCell+Security!;Red+Teamer+%7C+Blue+Teamer+%7C+Innovator;Automate.+Exploit.+Defend.;root%40cxb3rfilth%3A~%23+Hack+the+Planet" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-18181c?style=for-the-badge&logo=python&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Bash-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/JavaScript-18181c?style=for-the-badge&logo=javascript&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/PowerShell-18181c?style=for-the-badge&logo=powershell&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/C++-18181c?style=for-the-badge&logo=cplusplus&logoColor=FF003C"/>
-  <br>
-  <img src="https://img.shields.io/badge/Linux-18181c?style=for-the-badge&logo=linux&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Arch-18181c?style=for-the-badge&logo=arch-linux&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Kali-18181c?style=for-the-badge&logo=kalilinux&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Windows-18181c?style=for-the-badge&logo=windows&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/macOS-18181c?style=for-the-badge&logo=apple&logoColor=FF003C"/>
-  <br>
-  <img src="https://img.shields.io/badge/Nmap-18181c?style=for-the-badge&logo=nmap&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Wireshark-18181c?style=for-the-badge&logo=wireshark&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Metasploit-18181c?style=for-the-badge&logo=metasploit&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-18181c?style=for-the-badge&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/OWASP-18181c?style=for-the-badge&logo=owasp&logoColor=FF003C"/>
-  <br>
-  <img src="https://img.shields.io/badge/Docker-18181c?style=for-the-badge&logo=docker&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Kubernetes-18181c?style=for-the-badge&logo=kubernetes&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/AWS-18181c?style=for-the-badge&logo=amazon-aws&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Azure-18181c?style=for-the-badge&logo=microsoft-azure&logoColor=FF003C"/>
-  <img src="https://img.shields.io/badge/Terraform-18181c?style=for-the-badge&logo=terraform&logoColor=FF003C"/>
-  <br>
-  <img src="https://img.shields.io/badge/Exploit%20Development-FF003C?style=for-the-badge&logoColor=18181c"/>
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-FF003C?style=for-the-badge&logoColor=18181c"/>
-  <img src="https://img.shields.io/badge/Threat%20Hunting-FF003C?style=for-the-badge&logoColor=18181c"/>
-</p>
-
-<p align="center" style="background-color:#101013;">
-  <img src="https://github.com/cxb3rf1lth/GIF/blob/main/20250801_1515_Cyber%20Owl%20Vigilance_remix_01k1k37kdresza0tej3vwdct7p.gif" width="200" style="border-radius:12px;box-shadow:0 0 15px #FF003C,0 0 30px #18181c;" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red" alt="Profile Views"/>
-</p>
-
- ---
-
-## **Welcome to BlackCellSecurity**
 
 <div align="center">
 
-**Advanced Cybersecurity Operations & Development**
+# 🛡️ **BlackCell Security Toolkit v2.0.0**
+
+### **Advanced Cybersecurity Arsenal with Terminal User Interface**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.0.0-FF003C?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-00FF00?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Platform-Cross--Platform-blue?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+</p>
 
 </div>
 
-- **◆** Red team & blue team automation
-- **▣** Offensive security dev, blue team ops, & SOC engineer
-- **◉** Detection engineering, adversary emulation, incident response
-- **◈** Threat hunting, log analysis, C2/implant development
-- **▦** Automation, SIEM content, custom lab environments
-- **⬛** BlackCell architect | ZedSec ops | Autonomous lab cultivator
-
 ---
 
-### ★ **Expertise Matrix**
+## 🖥️ **TUI Interface - Primary Usage Method**
 
----
+BlackCell Security Toolkit features a state-of-the-art **Terminal User Interface (TUI)** built with Textual, providing an intuitive and powerful cybersecurity operations center directly in your terminal.
+
+### **🚀 Quick Start**
+
+```bash
+# Clone the repository
+git clone https://github.com/cxb3rf1lth/cxb3rf1lth.git
+cd cxb3rf1lth
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch BlackCell TUI (Primary Method)
+python blackcell/main.py
+
+# Alternative TUI launch
+python blackcell/tui/main.py
+```
+
+### **✨ TUI Features**
 
 <table align="center">
 <tr>
-<td align="center"><strong>◆ Red Team</strong><br>
-<img src="https://img.shields.io/badge/Skill%20Level-Expert-FF003C?style=flat-square&logo=target&logoColor=white"/><br>
-Penetration Testing • Exploit Development • Social Engineering
+<td align="center"><strong>🎛️ Dashboard</strong><br>
+<img src="https://img.shields.io/badge/System%20Overview-FF003C?style=flat-square&logoColor=white"/><br>
+Real-time status • Module overview • Activity monitoring
 </td>
-<td align="center"><strong>◇ Blue Team</strong><br>
-<img src="https://img.shields.io/badge/Skill%20Level-Advanced-0066CC?style=flat-square&logo=shield&logoColor=white"/><br>
-Incident Response • Threat Hunting • DFIR
+<td align="center"><strong>🔍 Reconnaissance</strong><br>
+<img src="https://img.shields.io/badge/Network%20Scanning-FF6600?style=flat-square&logoColor=white"/><br>
+Port scanning • Service detection • OS fingerprinting
 </td>
-<td align="center"><strong>♦ Purple Team</strong><br>
-<img src="https://img.shields.io/badge/Skill%20Level-Expert-9900CC?style=flat-square&logo=infinity&logoColor=white"/><br>
-Security Automation • Detection Engineering • Adversary Emulation
+<td align="center"><strong>💣 Exploits</strong><br>
+<img src="https://img.shields.io/badge/Vulnerability%20Testing-9900CC?style=flat-square&logoColor=white"/><br>
+Exploit framework • Payload testing • Vuln assessment
+</td>
+</tr>
+<tr>
+<td align="center"><strong>🔥 Fuzzers</strong><br>
+<img src="https://img.shields.io/badge/Web%20Fuzzing-0066CC?style=flat-square&logoColor=white"/><br>
+Directory fuzzing • Parameter testing • Subdomain discovery
+</td>
+<td align="center"><strong>🎯 Payloads</strong><br>
+<img src="https://img.shields.io/badge/Payload%20Manager-00CC66?style=flat-square&logoColor=white"/><br>
+XSS • SQLi • Command injection • Custom encoding
+</td>
+<td align="center"><strong>⚙️ Settings</strong><br>
+<img src="https://img.shields.io/badge/Configuration-666666?style=flat-square&logoColor=white"/><br>
+Tool configuration • Wordlist management • Preferences
 </td>
 </tr>
 </table>
 
+### **🎮 TUI Navigation**
+
+```
+Keyboard Shortcuts:
+  d - Dashboard     r - Reconnaissance    e - Exploits
+  f - Fuzzers       p - Payloads          s - Settings
+  h - Help          q - Quit              Tab - Navigate
+```
+
 ---
 
-## ⚔ **Featured Arsenal**
+## 🔧 **Command Line Interface (Alternative Usage)**
+
+While the TUI is the primary interface, all modules are also available as standalone CLI tools:
+
+### **📋 Available Commands**
+
+```bash
+# Reconnaissance Module
+bc-recon <target> [-p ports] [-t threads] [--service-scan] [--os-detect]
+
+# Payload Generation
+bc-payload -t <type> [-e encoding] [--list] [-o output]
+
+# Exploit Framework
+bc-exploit <target> [-c category] [--test] [--execute]
+
+# Fuzzer Tools
+bc-fuzzer <url> [-w wordlist] [-t threads] [--dirs|--params|--subdomains]
+```
+
+### **🎯 Usage Examples**
+
+```bash
+# Port scan with service detection
+bc-recon 192.168.1.100 -p 1-10000 --service-scan --os-detect
+
+# Generate XSS payloads with URL encoding
+bc-payload -t xss -e url --list
+
+# Directory fuzzing
+bc-fuzzer https://target.com --dirs -w /path/to/wordlist.txt
+
+# Launch full TUI interface
+blackcell
+```
+
+---
+
+## 🛠️ **Installation & Setup**
+
+### **📦 Automatic Installation**
+
+```bash
+# Clone repository
+git clone https://github.com/cxb3rf1lth/cxb3rf1lth.git
+cd cxb3rf1lth
+
+# Run automated installer
+python install.py
+
+# Launch BlackCell TUI
+blackcell
+```
+
+### **🔧 Manual Installation**
+
+```bash
+# Install Python dependencies
+pip install -r requirements.txt
+
+# Install in development mode
+pip install -e .
+
+# Run setup (creates directories, downloads wordlists)
+python blackcell/core/setup.py
+```
+
+### **📋 System Requirements**
+
+- **Python**: 3.8+ (3.10+ recommended)
+- **OS**: Linux, macOS, Windows
+- **Memory**: 512MB minimum, 2GB recommended
+- **Network**: Internet connection for updates and external resources
+
+---
+
+## 🔥 **Advanced Features**
+
+### **🎯 Comprehensive Payload System**
+
+```python
+# Integrated payload types
+PAYLOAD_TYPES = {
+    'xss': ['Reflected', 'Stored', 'DOM-based', 'Polyglot'],
+    'sqli': ['Union', 'Boolean', 'Time-based', 'Error-based'],
+    'cmdi': ['Unix', 'Windows', 'Blind', 'Out-of-band'],
+    'lfi': ['Path traversal', 'Wrapper', 'Log poisoning'],
+    'rfi': ['HTTP', 'FTP', 'Data URI', 'Filter bypass']
+}
+
+# Advanced encoding options
+ENCODINGS = ['URL', 'Double URL', 'Base64', 'HTML Entity', 'Unicode', 'Hex']
+```
+
+### **📚 Wordlist Management**
+
+```bash
+# Automatic wordlist categories
+├── directories/     # Web directory enumeration
+├── subdomains/      # Subdomain discovery
+├── parameters/      # Parameter fuzzing
+├── usernames/       # Username lists
+├── passwords/       # Password dictionaries
+└── custom/          # User-defined lists
+```
+
+### **🔍 Reconnaissance Capabilities**
+
+- **Port Scanning**: TCP/UDP port discovery with timing options
+- **Service Detection**: Banner grabbing and version identification  
+- **OS Fingerprinting**: TTL analysis and behavior-based detection
+- **Network Mapping**: CIDR range support and host discovery
+- **Output Formats**: JSON, XML, CSV, and plain text
+
+---
+
+## 🏗️ **Architecture Overview**
+
+```
+blackcell/
+├── core/              # Core functionality
+│   ├── config.py      # Configuration management
+│   ├── logger.py      # Logging system
+│   ├── database.py    # Result storage
+│   └── setup.py       # Auto-setup system
+├── tui/               # Terminal User Interface
+│   ├── app.py         # Main TUI application
+│   ├── screens.py     # Individual screens
+│   ├── widgets.py     # Custom UI components
+│   └── styles.css     # TUI styling
+├── modules/           # Security modules
+│   ├── recon/         # Reconnaissance tools
+│   ├── exploits/      # Exploit framework
+│   ├── fuzzers/       # Web application fuzzers
+│   └── payloads/      # Payload generation
+└── data/              # Default data files
+    ├── payloads/      # Payload templates
+    ├── wordlists/     # Word lists
+    └── exploits/      # Exploit definitions
+```
+
+---
+
+## 🎓 **Examples & Tutorials**
+
+### **🎯 Basic Reconnaissance Workflow**
+
+```bash
+# 1. Launch TUI
+blackcell
+
+# 2. Navigate to Reconnaissance (press 'r')
+# 3. Enter target: 192.168.1.0/24
+# 4. Select scan type: Comprehensive
+# 5. Configure options: Service detection ON
+# 6. Start scan and monitor progress
+```
+
+### **💣 Payload Generation & Testing**
+
+```bash
+# 1. Access Payload module (press 'p')
+# 2. Select payload type: XSS
+# 3. Choose encoding: URL + Base64
+# 4. Generate and test payloads
+# 5. Export results for manual testing
+```
+
+### **🔥 Web Application Fuzzing**
+
+```bash
+# 1. Open Fuzzer module (press 'f')  
+# 2. Enter target URL
+# 3. Select fuzzing type: Directory
+# 4. Choose wordlist: Common directories
+# 5. Set threads and delays
+# 6. Monitor results in real-time
+```
+
+---
+
+## 📊 **Performance & Optimization**
+
+### **⚡ Speed Optimizations**
+
+- **Asynchronous Operations**: All network operations use asyncio
+- **Thread Pool Management**: Configurable concurrent connections
+- **Memory Efficient**: Streaming results and chunked processing
+- **Caching System**: DNS resolution and result caching
+
+### **🎛️ Configuration Options**
+
+```yaml
+# ~/.blackcell/config.yaml
+general:
+  max_threads: 50
+  timeout: 30
+  debug: false
+
+recon:
+  default_ports: "1-10000"
+  scan_delay: 0.1
+  max_targets: 100
+
+fuzzers:
+  threads: 10
+  delay: 0.5
+  follow_redirects: true
+```
+
+---
+
+## 🔒 **Security & Compliance**
+
+### **🛡️ Built-in Safeguards**
+
+- **Safe Mode**: Prevents destructive operations
+- **Rate Limiting**: Configurable delays and connection limits  
+- **Logging**: Comprehensive audit trails
+- **Verification**: Payload and target validation
+
+### **⚖️ Legal & Ethical Use**
+
+```
+⚠️  IMPORTANT: AUTHORIZED USE ONLY
+    
+This toolkit is designed for:
+✅ Authorized penetration testing
+✅ Security research in controlled environments  
+✅ Educational purposes and training
+✅ Bug bounty programs with proper scope
+
+❌ DO NOT use for:
+❌ Unauthorized network scanning
+❌ Attacking systems without permission
+❌ Any illegal or malicious activities
+```
+
+---
+
+## 🔧 **Troubleshooting**
+
+### **🐛 Common Issues**
+
+```bash
+# Permission errors
+sudo chown -R $USER:$USER ~/.blackcell/
+
+# Missing dependencies
+pip install --upgrade -r requirements.txt
+
+# TUI display issues  
+export TERM=xterm-256color
+
+# Network connectivity
+python -c "import requests; print(requests.get('https://google.com').status_code)"
+```
+
+### **📝 Debug Mode**
+
+```bash
+# Enable debug logging
+blackcell --debug
+
+# Verbose output
+bc-recon target.com --debug -v
+
+# Log file location
+tail -f ~/.blackcell/logs/blackcell.log
+```
+
+---
+
+## 🤝 **Contributing**
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+### **🔧 Development Setup**
+
+```bash
+# Clone repository
+git clone https://github.com/cxb3rf1lth/cxb3rf1lth.git
+cd cxb3rf1lth
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# venv\Scripts\activate   # Windows
+
+# Install in development mode
+pip install -e ".[dev]"
+
+# Run tests
+pytest tests/
+
+# Code formatting
+black blackcell/
+flake8 blackcell/
+```
+
+---
+
+## 📄 **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 **Acknowledgments**
+
+- **Textual**: For the amazing TUI framework
+- **Rich**: For beautiful terminal output
+- **Security Community**: For continuous feedback and contributions
+- **Open Source Projects**: That make this toolkit possible
 
 ---
 
 <div align="center">
 
-### ◆ **CORE SECURITY TOOLS** ◆
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**▣ [PANTHEON](https://github.com/cxb3rf1lth/Bl4ckC3ll_PANTHEON)**
-<br>
-<a href="https://github.com/cxb3rf1lth/Bl4ckC3ll_PANTHEON">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Bl4ckC3ll_PANTHEON&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
-</a>
-<br>
-<img src="https://img.shields.io/badge/Python-FF003C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recon-18181c?style=for-the-badge&logoColor=FF003C"/>
-<img src="https://img.shields.io/badge/Exploit-FF003C?style=for-the-badge&logoColor=18181c"/>
-
-</td>
-<td align="center" width="50%">
-
-**◉ [Target Arsenal Hub](https://github.com/cxb3rf1lth)**
-<br>
-<a href="https://github.com/cxb3rf1lth">
-<img src="https://github-readme-stats.vercel.app/api?username=cxb3rf1lth&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&hide_border=false&cache_seconds=86400&count_private=true" width="400"/>
-</a>
-<br>
-<img src="https://img.shields.io/badge/Multi--Tool-FF003C?style=for-the-badge&logoColor=18181c"/>
-<img src="https://img.shields.io/badge/Arsenal-18181c?style=for-the-badge&logoColor=FF003C"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**■ [Hoaxshell-Villain Cheatsheet](https://github.com/cxb3rf1lth/Hoaxshell-villain_cheatsheet)**
-<br>
-<a href="https://github.com/cxb3rf1lth/Hoaxshell-villain_cheatsheet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Hoaxshell-villain_cheatsheet&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
-</a>
-<br>
-<img src="https://img.shields.io/badge/Cheatsheet-FF003C?style=for-the-badge&logoColor=18181c"/>
-<img src="https://img.shields.io/badge/C2-18181c?style=for-the-badge&logoColor=FF003C"/>
-
-</td>
-<td align="center" width="50%">
-
-**▦ [QemuVirt-Setup](https://github.com/cxb3rf1lth/QemuVirt-Setup)**
-<br>
-<a href="https://github.com/cxb3rf1lth/QemuVirt-Setup">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=QemuVirt-Setup&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
-</a>
-<br>
-<img src="https://img.shields.io/badge/Shell-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
-<img src="https://img.shields.io/badge/Virtualization-FF003C?style=for-the-badge&logoColor=18181c"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**◈ [BCAR](https://github.com/cxb3rf1lth/BCAR)**
-<br>
-<a href="https://github.com/cxb3rf1lth/BCAR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=BCAR&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
-</a>
-<br>
-<img src="https://img.shields.io/badge/Shell-18181c?style=for-the-badge&logo=gnu-bash&logoColor=FF003C"/>
-<img src="https://img.shields.io/badge/Auto%20Recon-FF003C?style=for-the-badge&logoColor=18181c"/>
-
-</td>
-<td align="center" width="50%">
-
-**▪ [Security Portfolio](https://github.com/cxb3rf1lth?tab=repositories)**
-<br>
-<a href="https://github.com/cxb3rf1lth?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxb3rf1lth&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&hide_border=false&cache_seconds=86400" width="400"/>
-</a>
-<br>
-<img src="https://img.shields.io/badge/Repository-FF003C?style=for-the-badge&logoColor=18181c"/>
-<img src="https://img.shields.io/badge/Portfolio-18181c?style=for-the-badge&logoColor=FF003C"/>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>▼ Additional Arsenal</b></summary>
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**◆ [Angry Scanner](https://github.com/cxb3rf1lth/Bl4vkC3ll_Angry_Scanner)**
-<br>
-<a href="https://github.com/cxb3rf1lth/Bl4vkC3ll_Angry_Scanner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Bl4vkC3ll_Angry_Scanner&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
-</a>
-
-</td>
-<td align="center" width="50%">
-
-**▧ [Recursive Hydra](https://github.com/cxb3rf1lth/Recursive_Hydra_Prompt_Engineering)**
-<br>
-<a href="https://github.com/cxb3rf1lth/Recursive_Hydra_Prompt_Engineering">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxb3rf1lth&repo=Recursive_Hydra_Prompt_Engineering&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d&cache_seconds=86400" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</details>
-
-### ■ **Real-Time Analytics**
+### 🔗 **Connect & Follow**
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cxb3rf1lth&theme=react-dark&bg_color=0d1117&title_color=FF003C&color=c9d1d9&line=FF003C&point=FF003C&area=true&hide_border=false&border_color=30363d" alt="Activity Graph" />
+  <a href="https://github.com/cxb3rf1lth"><img src="https://img.shields.io/badge/GitHub-cxb3rf1lth-FF003C?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/cxb3rf1lth"><img src="https://img.shields.io/badge/Twitter-cxb3rf1lth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
+### ⚠️ **Disclaimer**
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cxb3rf1lth&theme=github_dark&show_icons=true&bg_color=0d1117&title_color=FF003C&text_color=c9d1d9&icon_color=FF003C&border_color=30363d" alt="Profile Summary" />
+  <sub>🔒 <strong>Use Responsibly:</strong> This toolkit is for authorized security testing only. Users are responsible for compliance with all applicable laws and regulations.</sub>
 </p>
 
 </div>
-
----
-
-## ▬ **Connect & Collaborate**
-
----
-
-<div align="center">
-
-### ▬ **Professional Network**
-
-<p align="center">
-<a href="https://tryhackme.com/p/Bl4ckC3llSec">
-<img src="https://img.shields.io/badge/TryHackMe-Bl4ckC3llSec-FF003C?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-<a href="https://github.com/cxb3rf1lth">
-<img src="https://img.shields.io/badge/GitHub-cxb3rf1lth-18181c?style=for-the-badge&logo=github&logoColor=FF003C"/>
-</a>
-<br>
-<a href="mailto:contact@blackcellsecurity.dev">
-<img src="https://img.shields.io/badge/Email-BlackCell-FF003C?style=for-the-badge&logo=protonmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/blackcellsecurity">
-<img src="https://img.shields.io/badge/LinkedIn-BlackCellSec-18181c?style=for-the-badge&logo=linkedin&logoColor=FF003C"/>
-</a>
-</p>
-
-</div>
-
----
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ckC3llSec.png" alt="TryHackMe Profile Badge" />
-</p>
-
----
-
----
-
-## ◪ **Activity & Contributions**
-
----
-
-<div align="center">
-
-### ▲ **GitHub Activity**
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cxb3rf1lth&theme=dark&background=0d1117&stroke=FF003C&ring=FF003C&fire=FF003C&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF003C&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false&border=30363d" alt="GitHub Streak" />
-</p>
-
-### ━ **Contribution Snake**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" style="max-width: 100%;" />
-</p>
-
-### ◉ **Profile Analytics**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/cxb3rf1lth?style=flat-square&color=FF003C&labelColor=0d1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/cxb3rf1lth?style=flat-square&color=FF003C&labelColor=0d1117" alt="Total Stars"/>
-</p>
-
-### ◆ **Recent Activity**
-
-<p align="center">
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/cxb3rf1lth/cxb3rf1lth/pull/9) in [cxb3rf1lth/cxb3rf1lth](https://github.com/cxb3rf1lth/cxb3rf1lth)
-<!--END_SECTION:activity-->
-</p>
-
-### ★ **GitHub Trophies**
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cxb3rf1lth&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-</div>
-
-<!--▲ Animated Snake Activity Graph (GitHub Contribution Snake) -->
----
-
-### ◉ **Mission Statement**
-
-<p align="center">
-<i>"Bridging the gap between offense and defense through innovative security solutions, automated threat detection, and continuous learning in the ever-evolving landscape of cybersecurity."</i>
-</p>
-
-### ■ **Current Focus**
-
-<p align="center">
-◈ <strong>Advanced Threat Hunting</strong> | ▣ <strong>SOC Automation</strong> | ◆ <strong>Red Team Operations</strong> | ▦ <strong>Tool Development</strong>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF003C&height=120&section=footer&text=Stay%20Secure&fontSize=24&fontColor=ffffff&animation=twinkling"/>
-</p>
-
-<p align="center">
-  <sub>⬛ <strong>Remember:</strong> With great power comes great responsibility. Use these tools ethically and legally. ⬛</sub>
-  <br>
-  <sub>▣ All security research is conducted in authorized environments only ▣</sub>
-</p>
-
-<!-- Badge Display -->
-
-<!--◉ Visitor Counter -->
 
 
