@@ -129,11 +129,6 @@
 
 <div align="center">
 
-```bash
-┌─[root@blackcell]─[~]
-└──╼ $ cat /etc/sponsor_info
-```
-
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a1a1a 100%); border: 2px solid #ff0000; padding: 20px; border-radius: 10px; margin: 20px 0;">
 
 ### <span style="color: #ff0000;">🚀 FUEL THE CYBERSECURITY RESEARCH</span>
@@ -158,28 +153,9 @@
 
 </div>
 
-```bash
-┌─[root@blackcell]─[~]
-└──╼ $ echo "Every contribution makes a difference in cybersecurity research!"
-Every contribution makes a difference in cybersecurity research!
-```
-
-</div>
-
-</div>
-
 ---
 
 ## <span style="color: #ff0000;">►</span> REPOSITORY SHOWCASE
-
-<div align="center">
-
-```bash
-┌─[root@blackcell]─[~]
-└──╼ $ ls -la /opt/security_arsenal/
-```
-
-</div>
 
 <div align="center">
 
@@ -193,13 +169,6 @@ Every contribution makes a difference in cybersecurity research!
 <div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
 
 **🎯 Custom penetration testing framework and security utilities**
-
-```bash
-├── Languages: Python, Bash
-├── Focus: Web App Security  
-├── Target: Network Scanning
-└── Status: [ ACTIVE ]
-```
 
 [![Repo Card](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](#)
 ![Stars](https://img.shields.io/badge/⭐_Stars-127-ff0000?style=flat-square)
