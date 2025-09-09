@@ -155,7 +155,7 @@ Welcome to the digital underground...
 <tr>
 <td align="center" width="50%">
 <div style="background: #0d1117; border: 1px solid #ff0000; padding: 10px; border-radius: 5px;">
-<h3 style="color: #ff0000;">🛡️ Security Toolkit</h3>
+<h3 style="color: #ff0000;">[SEC] Security Toolkit</h3>
 <p style="color: #ffffff;">Custom penetration testing framework and security utilities</p>
 <p><strong>Languages:</strong> Python, Bash</p>
 <p><strong>Focus:</strong> Web App Security, Network Scanning</p>
@@ -163,7 +163,7 @@ Welcome to the digital underground...
 </td>
 <td align="center" width="50%">
 <div style="background: #0d1117; border: 1px solid #ff0000; padding: 10px; border-radius: 5px;">
-<h3 style="color: #ff0000;">🔍 Exploit Development</h3>
+<h3 style="color: #ff0000;">[EXP] Exploit Development</h3>
 <p style="color: #ffffff;">Research and development of security exploits</p>
 <p><strong>Languages:</strong> C++, Assembly, Python</p>
 <p><strong>Focus:</strong> Buffer Overflows, ROP Chains</p>
@@ -173,7 +173,7 @@ Welcome to the digital underground...
 <tr>
 <td align="center" width="50%">
 <div style="background: #0d1117; border: 1px solid #ff0000; padding: 10px; border-radius: 5px;">
-<h3 style="color: #ff0000;">🌐 Web Scanner</h3>
+<h3 style="color: #ff0000;">[WEB] Web Scanner</h3>
 <p style="color: #ffffff;">Advanced web application vulnerability scanner</p>
 <p><strong>Languages:</strong> Python, JavaScript</p>
 <p><strong>Focus:</strong> OWASP Top 10, Custom Payloads</p>
@@ -181,7 +181,7 @@ Welcome to the digital underground...
 </td>
 <td align="center" width="50%">
 <div style="background: #0d1117; border: 1px solid #ff0000; padding: 10px; border-radius: 5px;">
-<h3 style="color: #ff0000;">📡 Network Recon</h3>
+<h3 style="color: #ff0000;">[NET] Network Recon</h3>
 <p style="color: #ffffff;">Comprehensive network reconnaissance toolkit</p>
 <p><strong>Languages:</strong> Python, Bash</p>
 <p><strong>Focus:</strong> Port Scanning, Service Enumeration</p>
