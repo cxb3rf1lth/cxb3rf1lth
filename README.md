@@ -33,53 +33,11 @@
 
 </div>
 
-
-
 <div align="center">
 
 </div>
 
 ---
-
-<div align="center">
-
-
-
-```bash
-root@blackcell:~# whoami
-cxb3rf1lth
-
-root@blackcell:~# cat /proc/version
-Linux blackcell 5.15.0 #1 SMP Cybersecurity Specialist
-```
-
-</div>
-
-## <span style="color: #ff0000;">►</span> PROFILE INITIALIZATION
-
-<div align="center">
-
-</div>
-
-<div align="left">
-
-```bash
-┌─[root@blackcell]─[~]
-└──╼ $ sudo systemctl start bl4ck_c3ll_security.service
-[  OK  ] Started Bl4ckC3ll Security Research Division
-
-┌─[root@blackcell]─[~] 
-└──╼ $ cat ~/.bash_profile
-```
-
-
-```bash
-┌─[root@blackcell]─[~]
-└──╼ $ echo "Profile loaded successfully. Access level: ROOT"
-Profile loaded successfully. Access level: ROOT
-```
-
-</div>
 
 ## <span style="color: #ff0000;">►</span> TECHNICAL ARSENAL
 
@@ -143,11 +101,6 @@ Profile loaded successfully. Access level: ROOT
 ## <span style="color: #ff0000;">►</span> ACTIVE OPERATIONS
 
 <div align="left">
-
-```bash
-┌─[root@blackcell]─[~]
-└──╼ $ ps aux | grep current_focus
-```
 
 **◆** Web application security assessments  
 **◆** Network penetration testing campaigns  
