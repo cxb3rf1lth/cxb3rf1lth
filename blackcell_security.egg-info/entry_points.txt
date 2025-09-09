@@ -1,7 +1,0 @@
-[console_scripts]
-bc-exploit = blackcell.modules.exploits.main:main
-bc-fuzzer = blackcell.modules.fuzzers.main:main
-bc-payload = blackcell.modules.payloads.main:main
-bc-recon = blackcell.modules.recon.main:main
-bc-tui = blackcell.tui.main:run_tui
-blackcell = blackcell.main:main
