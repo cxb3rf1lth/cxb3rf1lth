@@ -50,57 +50,33 @@
 <table>
 <tr>
 <td valign="top" width="33%">
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border-left: 4px solid #ff0000; padding: 15px; margin: 10px 0;">
 
+**🤝** **Open to collaboration on security research projects**  
+**💼** **Available for penetration testing consultations**  
+**📖** **Mentoring aspiring cybersecurity professionals**  
+**🎯** **Bug bounty hunting partnerships**  
+**🔴** **Red team exercise participation**  
+**📢** **Conference speaking and workshop opportunities**
+
+---
+
+## <span style="color: #ff0000;">►</span> COMMUNITY ENGAGEMENT
+
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 20px; border-radius: 10px; margin: 20px 0;">
+
+### 🚀 **HELP SPREAD THE WORD!**
+
+**🔥 If you find my work valuable:**
+- ⭐ **Star** my repositories to show support
+- 🔄 **Share** my projects with the cybersecurity community  
+- 💬 **Engage** with posts and contribute to discussions
+- 🤝 **Follow** for the latest security research and tools
+- 📢 **Mention** @cxb3rf1lth in your cybersecurity networks
+
+**🎯 Let's build a stronger cybersecurity community together!**
 **PROGRAMMING LANGUAGES**
-```bash
-┌─────────────────────┐
-│ Python         ████ │ 
-│ Bash/Shell     ███▒ │
-│ JavaScript     ███▒ │
-│ C++            ██▒▒ │
-│ Assembly       ██▒▒ │
-│ PowerShell     █▒▒▒ │
-│ Go             █▒▒▒ │
-└─────────────────────┘
-```
-
-</td>
-<td valign="top" width="33%">
-
-**SECURITY FRAMEWORKS**
-```bash
-┌─────────────────────┐
-│ Burp Suite     ████ │
-│ Metasploit     ████ │
-│ Nmap           ████ │
-│ Wireshark      ███▒ │
-│ Ghidra         ███▒ │
-│ OWASP ZAP      ██▒▒ │
-│ Cobalt Strike  ██▒▒ │
-└─────────────────────┘
-```
-
-</td>
-<td valign="top" width="33%">
-
-**PLATFORMS & CLOUDS**
-```bash
-┌─────────────────────┐
-│ Kali Linux     ████ │
-│ AWS Security   ███▒ │
-│ Docker         ███▒ │
-│ Kubernetes     ██▒▒ │
-│ Azure          ██▒▒ │
-│ GCP            █▒▒▒ │
-│ VMware         █▒▒▒ │
-└─────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ## <span style="color: #ff0000;">►</span> ACTIVE OPERATIONS
 
@@ -169,7 +145,7 @@
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); margin: 10px;">
 
-### 🔥 **[SEC] Security Toolkit**
+### 🔥 **[Bl4ckC3ll_P4ntheon] Automated Red Team Security testing **
 <div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
 
 **🎯 Custom penetration testing framework and security utilities**
@@ -185,17 +161,8 @@
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); margin: 10px;">
 
-### 💀 **[EXP] Exploit Development**
+### 💀 **[Zero_DayZ] **
 <div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
-
-**⚔️ Research and development of security exploits**
-
-```bash
-├── Languages: C++, Assembly, Python
-├── Focus: Buffer Overflows
-├── Target: ROP Chains
-└── Status: [ CLASSIFIED ]
-```
 
 [![Repo Card](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](#)
 ![Stars](https://img.shields.io/badge/⭐_Stars-89-ff0000?style=flat-square)
@@ -262,15 +229,6 @@
 <div align="center">
 
 ```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║  01100100 01100001 01110100 01100001   01100110 01101100  ║
-    ║  01101111 01110111   01110011 01110100 01110010 01100101  ║ 
-    ║  01100001 01101101   01100001 01100011 01110100 01101001  ║
-    ║  01110110 01101001 01110100 01111001   01101101 01100001  ║
-    ║  01110100 01110010 01101001 01111000   01101100 01101111  ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cxb3rf1lth/cxb3rf1lth/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cxb3rf1lth/cxb3rf1lth/output/github-contribution-grid-snake.svg">
@@ -288,106 +246,7 @@
 └──╼ $ netstat -tulpn | grep ESTABLISHED
 ```
 
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border-left: 4px solid #ff0000; padding: 15px; margin: 10px 0;">
 
-**🤝** **Open to collaboration on security research projects**  
-**💼** **Available for penetration testing consultations**  
-**📖** **Mentoring aspiring cybersecurity professionals**  
-**🎯** **Bug bounty hunting partnerships**  
-**🔴** **Red team exercise participation**  
-**📢** **Conference speaking and workshop opportunities**
-
-</div>
-
-```bash
-┌─[root@blackcell]─[~]
-└──╼ $ echo "Building the future of cybersecurity, one commit at a time..."
-Building the future of cybersecurity, one commit at a time...
-```
-
-</div>
-
----
-
-## <span style="color: #ff0000;">►</span> COMMUNITY ENGAGEMENT
-
-<div align="center">
-
-```bash
-┌─[root@blackcell]─[~]
-└──╼ $ cat /proc/social_metrics
-```
-
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 20px; border-radius: 10px; margin: 20px 0;">
-
-### 🚀 **HELP SPREAD THE WORD!**
-
-**🔥 If you find my work valuable:**
-- ⭐ **Star** my repositories to show support
-- 🔄 **Share** my projects with the cybersecurity community  
-- 💬 **Engage** with posts and contribute to discussions
-- 🤝 **Follow** for the latest security research and tools
-- 📢 **Mention** @cxb3rf1lth in your cybersecurity networks
-
-**🎯 Let's build a stronger cybersecurity community together!**
-
-<div style="margin: 15px 0;">
-
-[![GitHub stars](https://img.shields.io/github/stars/cxb3rf1lth?style=social)](https://github.com/cxb3rf1lth)
-[![Twitter Follow](https://img.shields.io/twitter/follow/cxb3rf1lth?style=social)](https://twitter.com/cxb3rf1lth)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=social&logo=linkedin)](https://linkedin.com/in/cxb3rf1lth)
-
-</div>
-
-```bash
-┌─[root@blackcell]─[~]  
-└──╼ $ echo "Your support helps fuel innovation in cybersecurity!"
-Your support helps fuel innovation in cybersecurity!
-```
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-┌─[root@blackcell]─[~]
-└──╼ $ echo "Session terminated. Logging out..."
-Session terminated. Logging out...
-
-┌─[root@blackcell]─[~]
-└──╼ $ cat /etc/motd
-```
-
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 20px; border-radius: 10px; margin: 20px 0;">
-
-```
-    ▄▀█ █▀▀ █▀▀ █▀▀ █▀ █▀   █▀▄ █▀▀ █▄░█ █ █▀▀ █▀▄
-    █▀█ █▄▄ █▄▄ ██▄ ▄█ ▄█   █▄▀ ██▄ █░▀█ █ ██▄ █▄▀
-    
-    ╔═══════════════════════════════════════════════════════════╗
-    ║  [WARNING] AUTHORIZED PERSONNEL ONLY                     ║
-    ║  [NOTICE]  All activities are monitored and logged       ║
-    ║  [LEGAL]   For educational and ethical purposes only     ║
-    ║  [CONTACT] Responsible disclosure encouraged             ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-**🔥 Connect & Collaborate**
-
-<div style="margin: 20px 0;">
-
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cxb3rf1lth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cxb3rf1lth)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cxb3rf1lth)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cxb3rf1lth)
-
-</div>
 
 <sub>**Bl4ckC3ll Security Research Division** | **Est. 2024** | **"Securing the Digital Frontier"**</sub>
 
