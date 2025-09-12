@@ -304,18 +304,6 @@
 
 ## <span style="color: #ff0000;">▶</span> NETWORK ACTIVITY MATRIX
 
-<div align="center">
-
-### <span style="color: #ff0000;">◈</span> **CONTRIBUTION INFILTRATION MAP** <span style="color: #ff0000;">◈</span>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cxb3rf1lth/cxb3rf1lth/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cxb3rf1lth/cxb3rf1lth/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cxb3rf1lth/cxb3rf1lth/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
 ---
 
 ## <span style="color: #ff0000;">▶</span> COMMUNITY ENGAGEMENT PROTOCOLS
@@ -349,15 +337,6 @@ Your sponsorship enables advanced vulnerability research, open-source security t
 
 <div align="center">
 
-```bash
-┌─[root@blackcell]─[~/secure_comms]
-└──╼ $ netstat -tulpn | grep ESTABLISHED
-tcp    0.0.0.0:443    ESTABLISHED    [ENCRYPTED_CHANNEL]
-tcp    0.0.0.0:22     ESTABLISHED    [SSH_TUNNEL_ACTIVE]
-tcp    0.0.0.0:9050   ESTABLISHED    [TOR_PROXY_ONLINE]
-```
-
-</div>
 
 <div align="center" style="margin: 30px 0;">
 
