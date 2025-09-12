@@ -337,6 +337,28 @@ Your sponsorship enables advanced vulnerability research, open-source security t
 
 <div align="center">
 
+## 🚀 Development Environment
+
+This repository is fully configured for VSCode development. To get started:
+
+```bash
+# Clone the repository
+git clone https://github.com/cxb3rf1lth/cxb3rf1lth.git
+cd cxb3rf1lth
+
+# Run in VSCode (one command setup)
+./run-vscode.sh
+```
+
+**Features included:**
+- 🎨 Dark cybersecurity-themed workspace
+- 📝 Markdown preview and editing tools  
+- 🔧 Pre-configured tasks (README preview, terminal, git status)
+- 🔌 Recommended extensions for optimal workflow
+- 🖥️ Integrated terminal with bash profile
+
+Open `cxb3rf1lth.code-workspace` to load the complete development environment.
+
 
 <div align="center" style="margin: 30px 0;">
 

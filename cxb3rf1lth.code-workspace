@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Default Dark+ (Monokai Inspired)",
+		"terminal.integrated.defaultProfile.linux": "bash"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.vscode-markdown",
+			"bierner.markdown-preview-github-styles",
+			"yzhang.markdown-all-in-one",
+			"eamodio.gitlens"
+		]
+	}
+}

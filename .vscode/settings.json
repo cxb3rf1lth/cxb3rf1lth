@@ -1,0 +1,15 @@
+{
+    "editor.theme": "dark",
+    "workbench.colorTheme": "Default Dark+ (Monokai Inspired)",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "files.associations": {
+        "*.md": "markdown"
+    },
+    "markdown.preview.theme": "dark",
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": true,
+    "workbench.startupEditor": "readme",
+    "git.decorations.enabled": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
+}
