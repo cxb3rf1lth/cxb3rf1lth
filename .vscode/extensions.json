@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-vscode.vscode-markdown",
+        "bierner.markdown-preview-github-styles",
+        "yzhang.markdown-all-in-one",
+        "ms-vscode.theme-predawn",
+        "ms-vscode.theme-monokai-dimmed",
+        "formulahendry.terminal",
+        "ms-vscode.powershell",
+        "ms-python.python",
+        "formulahendry.code-runner",
+        "eamodio.gitlens"
+    ]
+}
