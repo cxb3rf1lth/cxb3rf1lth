@@ -28,34 +28,34 @@
 
 ---
 
-## <span style="color: #ff0000;">▶</span> THREAT PROFILE OVERVIEW
+## <span style="color: #ff0000;">▶</span> ABOUT ME
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border-left: 4px solid #ff0000; padding: 20px; margin: 15px 0; border-radius: 8px;">
 
-**◉ DESIGNATION:** `Ethical Hacker & Cybersecurity Researcher`  
-**◉ CALLSIGN:** `cxb3rf1lth | Zee`  
-**◉ CLASSIFICATION:** `Penetration Tester & Security Tool Developer`  
+**◉ ROLE:** `Ethical Hacker & Cybersecurity Researcher`  
+**◉ NAME:** `cxb3rf1lth | Zee`  
+**◉ EXPERTISE:** `Penetration Tester & Security Tool Developer`  
 **◉ SPECIALIZATION:** `Vulnerability Research & Exploit Development`  
-**◉ OBJECTIVE:** `Fortifying Digital Infrastructure Through Ethical Hacking`  
+**◉ FOCUS:** `Fortifying Digital Infrastructure Through Ethical Hacking`  
 
-**◢ OPERATIONAL STATUS:** `ACTIVE & ENGAGED`  
-**◢ MISSION:** `Identifying vulnerabilities before malicious actors do`  
-**◢ COMMITMENT:** `Responsible disclosure and ethical cybersecurity practices`
+**◢ STATUS:** `ACTIVE & ENGAGED`  
+**◢ GOAL:** `Identifying vulnerabilities before malicious actors do`  
+**◢ COMMITMENT:** `Responsible disclosure and ethical practices`
 
 </div>
 
 ---
 
-## <span style="color: #ff0000;">▶</span> TACTICAL CAPABILITIES
+## <span style="color: #ff0000;">▶</span> SKILLS & EXPERTISE
 
 <div align="center">
 <table width="100%">
 <tr>
 <td align="center" width="33%">
 
-### <span style="color: #ff0000;">⟪</span> OFFENSIVE SECURITY <span style="color: #ff0000;">⟫</span>
+### <span style="color: #ff0000;">⟪</span> SECURITY TESTING <span style="color: #ff0000;">⟫</span>
 ```bash
-┌─[ATTACK_VECTORS]
+┌─[TESTING_AREAS]
 ├── Web Application Testing
 ├── Network Penetration Testing  
 ├── Binary Exploitation
@@ -68,7 +68,7 @@
 
 ### <span style="color: #ff0000;">⟪</span> TOOL DEVELOPMENT <span style="color: #ff0000;">⟫</span>
 ```bash
-┌─[CODING_ARSENAL] 
+┌─[CODING_SKILLS] 
 ├── Python Security Scripts
 ├── Bash Automation Tools
 ├── Custom Exploit Frameworks
@@ -96,29 +96,29 @@
 
 ---
 
-## <span style="color: #ff0000;">▶</span> ACTIVE OPERATIONS STATUS
+## <span style="color: #ff0000;">▶</span> CURRENT PROJECTS
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 1px solid #ff0000; padding: 15px; border-radius: 8px; margin: 15px 0;">
 
-**🎯 Current Engagements:**
-- **`[OPERATION_TRADEFLOW]`** → Advanced trading platform and financial technology development
-- **`[OPERATION_PANTHEON_V2]`** → Next-generation automated reconnaissance framework
-- **`[OPERATION_CYBERSEC_HUB]`** → Centralized security operations and intelligence platform
-- **`[OPERATION_AZAZ_EL]`** → Advanced penetration testing and exploitation toolkit
+**🎯 Active Projects:**
+- **`[TradeFlow]`** → Advanced trading platform and financial technology development
+- **`[Pantheon V2]`** → Next-generation automated reconnaissance framework
+- **`[CyberSec Hub]`** → Centralized security hub and intelligence platform
+- **`[Azaz-El]`** → Advanced penetration testing and exploitation toolkit
 
-**📡 Intelligence Gathering:** `CONTINUOUS`  
-**🛡️ Defense Research:** `ONGOING`  
-**⚔️ Red Team Exercises:** `SCHEDULED`
+**📡 Research:** `CONTINUOUS`  
+**🛡️ Development:** `ONGOING`  
+**⚔️ Testing:** `SCHEDULED`
 
 </div>
 
 ---
 
-## <span style="color: #ff0000;">▶</span> ARSENAL DEPLOYMENT - REPOSITORY SHOWCASE
+## <span style="color: #ff0000;">▶</span> REPOSITORY SHOWCASE
 
 <div align="center">
 
-### <span style="color: #ff0000;">◈</span> **OPERATIONAL SECURITY TOOLS** <span style="color: #ff0000;">◈</span>
+### <span style="color: #ff0000;">◈</span> **SECURITY TOOLS** <span style="color: #ff0000;">◈</span>
 
 <table>
 <tr>
@@ -204,7 +204,7 @@
 
 ```bash
 ├── Type: Documentation
-├── Focus: C2 Operations
+├── Focus: C2 Framework
 ├── Features: Quick Reference
 └── Status: [▓▓▓▓▓▓▓▓▓▓] COMPLETE
 ```
@@ -236,7 +236,7 @@
 ├── Language: Shell
 ├── Focus: Lab Environment
 ├── Features: QEMU Configuration
-└── Status: [▓▓▓▓▓▓▓▓▓▓] OPERATIONAL
+└── Status: [▓▓▓▓▓▓▓▓▓▓] ACTIVE
 ```
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/QemuVirt-Setup)
@@ -253,12 +253,12 @@
 ### <span style="color: #ff0000;">▲</span> **[cybersec-hub]**
 <div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
 
-**`Centralized Security Operations & Intelligence Platform`**
+**`Centralized Security Hub & Intelligence Platform`**
 
 ```bash
 ├── Language: TypeScript
-├── Focus: Security Operations Center
-├── Features: Threat Intelligence Hub
+├── Focus: Security Hub
+├── Features: Intelligence Platform
 └── Status: [▓▓▓▓▓▓▓▓░░] 80% COMPLETE
 ```
 
@@ -332,7 +332,7 @@
 ├── Language: Python
 ├── Focus: Vulnerability Assessment
 ├── Features: Automated Analysis
-└── Status: [▓▓▓▓▓▓▓▓▓▓] OPERATIONAL
+└── Status: [▓▓▓▓▓▓▓▓▓▓] ACTIVE
 ```
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Judgement)
@@ -354,7 +354,7 @@
 ├── Language: PowerShell
 ├── Focus: System Administration
 ├── Features: Automated Diagnostics
-└── Status: [▓▓▓▓▓▓▓▓▓▓] OPERATIONAL
+└── Status: [▓▓▓▓▓▓▓▓▓▓] ACTIVE
 ```
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Did-you-try-turning-it-on-and-off-again)
@@ -397,13 +397,13 @@
 
 ---
 
-## <span style="color: #ff0000;">▶</span> INTELLIGENCE DASHBOARD
+## <span style="color: #ff0000;">▶</span> GITHUB STATS
 
 <div align="center">
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 1px solid #ff0000; padding: 20px; border-radius: 10px; margin: 20px 0;">
 
-### <span style="color: #ff0000;">◈</span> **OPERATIONAL METRICS** <span style="color: #ff0000;">◈</span>
+### <span style="color: #ff0000;">◈</span> **STATISTICS** <span style="color: #ff0000;">◈</span>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cxb3rf1lth&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&custom_title=BlackCell%20Security%20Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cxb3rf1lth&theme=radical&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
@@ -412,7 +412,7 @@
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 1px solid #ff0000; padding: 15px; border-radius: 10px; margin: 20px 0;">
 
-### <span style="color: #ff0000;">◈</span> **TECHNOLOGY ARSENAL** <span style="color: #ff0000;">◈</span>
+### <span style="color: #ff0000;">◈</span> **TECHNOLOGY STACK** <span style="color: #ff0000;">◈</span>
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxb3rf1lth&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&custom_title=BlackCell%20Tech%20Stack" />
 
@@ -422,25 +422,25 @@
 
 ---
 
-## <span style="color: #ff0000;">▶</span> NETWORK ACTIVITY MATRIX
+## <span style="color: #ff0000;">▶</span> ACTIVITY
 
 ---
 
-## <span style="color: #ff0000;">▶</span> COMMUNITY ENGAGEMENT PROTOCOLS
+## <span style="color: #ff0000;">▶</span> COMMUNITY & COLLABORATION
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 20px; border-radius: 10px; margin: 20px 0;">
 
-### <span style="color: #ff0000;">▲</span> **COLLABORATION OPPORTUNITIES**
+### <span style="color: #ff0000;">▲</span> **COLLABORATION**
 
-**`[SEEKING_ALLIANCE]`** Security research partnerships and joint operations  
-**`[OPEN_SOURCE]`** Contributing to community security tools and frameworks  
-**`[KNOWLEDGE_TRANSFER]`** Mentoring aspiring ethical hackers and security researchers  
-**`[RED_TEAM_OPS]`** Participating in simulated attack exercises and assessments  
-**`[CONFERENCE_INTEL]`** Speaking at cybersecurity conferences and workshops  
+**`[Partnerships]`** Security research partnerships and collaboration  
+**`[Open Source]`** Contributing to community security tools and frameworks  
+**`[Mentoring]`** Mentoring aspiring ethical hackers and security researchers  
+**`[Testing]`** Participating in simulated exercises and assessments  
+**`[Speaking]`** Speaking at cybersecurity conferences and workshops  
 
-### <span style="color: #ff0000;">▲</span> **SUPPORT THE MISSION**
+### <span style="color: #ff0000;">▲</span> **SUPPORT**
 
-Your sponsorship enables advanced vulnerability research, open-source security tool development, and educational cybersecurity content creation.
+Your sponsorship enables advanced vulnerability research, open-source security tool development, and educational content creation.
 
 <div align="center" style="margin: 20px 0;">
 
@@ -453,7 +453,7 @@ Your sponsorship enables advanced vulnerability research, open-source security t
 
 ---
 
-## <span style="color: #ff0000;">▶</span> SECURE COMMUNICATION CHANNELS
+## <span style="color: #ff0000;">▶</span> CONNECT
 
 <div align="center">
 
@@ -464,8 +464,8 @@ Your sponsorship enables advanced vulnerability research, open-source security t
 
 <sub>**BlackCell Security Research Division** | **Est. 2024** | **"Securing the Digital Frontier"**</sub>
 
-<img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red&label=THREAT_ASSESSMENTS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/cxb3rf1lth?label=OPERATIVES&style=flat-square&color=red" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red&label=PROFILE_VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/cxb3rf1lth?label=FOLLOWERS&style=flat-square&color=red" alt="GitHub Followers" />
 
 ```bash
 ┌─[root@blackcell]─[~]
