@@ -101,10 +101,10 @@
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 1px solid #ff0000; padding: 15px; border-radius: 8px; margin: 15px 0;">
 
 **🎯 Current Engagements:**
-- **`[OPERATION_PANTHEON]`** → Advanced automated reconnaissance framework development
-- **`[OPERATION_ZERO_DAY]`** → Vulnerability research and exploit development  
-- **`[OPERATION_BLACKCELL_RECON]`** → Network reconnaissance toolkit optimization
-- **`[OPERATION_PAYLOAD_FORGE]`** → Custom payload generation system enhancement
+- **`[OPERATION_TRADEFLOW]`** → Advanced trading platform and financial technology development
+- **`[OPERATION_PANTHEON_V2]`** → Next-generation automated reconnaissance framework
+- **`[OPERATION_CYBERSEC_HUB]`** → Centralized security operations and intelligence platform
+- **`[OPERATION_AZAZ_EL]`** → Advanced penetration testing and exploitation toolkit
 
 **📡 Intelligence Gathering:** `CONTINUOUS`  
 **🛡️ Defense Research:** `ONGOING`  
@@ -126,21 +126,21 @@
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); margin: 10px;">
 
-### <span style="color: #ff0000;">▲</span> **[Bl4ckC3ll_PANTHEON]**
+### <span style="color: #ff0000;">▲</span> **[TradeFlow]**
 <div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
 
-**`Advanced Automated Reconnaissance & Exploit Framework`**
+**`Advanced Trading Platform & Financial Technology Stack`**
 
 ```bash
-├── Language: Python
-├── Focus: Multi-Target Assessment
-├── Features: Auto Exploit & Recon
-└── Status: [▓▓▓▓▓▓▓▓░░] 80% COMPLETE
+├── Language: TypeScript
+├── Focus: Financial Trading Systems
+├── Features: Real-time Trading
+└── Status: [▓▓▓▓▓▓▓▓▓░] 90% ACTIVE
 ```
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Bl4ckC3ll_PANTHEON)
-![Issues](https://img.shields.io/badge/Issues-1-ff0000?style=flat-square)
-![Language](https://img.shields.io/badge/Python-ff0000?style=flat-square)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/TradeFlow)
+![Issues](https://img.shields.io/badge/Issues-2-ff0000?style=flat-square)
+![Language](https://img.shields.io/badge/TypeScript-ff0000?style=flat-square)
 
 </div>
 
@@ -149,21 +149,21 @@
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); margin: 10px;">
 
-### <span style="color: #ff0000;">▲</span> **[BlackCell_Zero_Dayz]**
+### <span style="color: #ff0000;">▲</span> **[Bl4ckC3ll_PantheonV2]**
 <div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
 
-**`Zero-Day Vulnerability Research & Development`**
+**`Next-Gen Automated Reconnaissance & Exploit Framework`**
 
 ```bash
 ├── Language: Python
-├── Focus: Exploit Development
-├── Features: Custom Payloads
-└── Status: [▓▓▓▓▓▓░░░░] 60% COMPLETE
+├── Focus: Advanced Multi-Target Assessment
+├── Features: Auto Exploit & Intelligence
+└── Status: [▓▓▓▓▓▓▓░░░] 70% COMPLETE
 ```
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/BlackCell_Zero_Dayz)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Bl4ckC3ll_PantheonV2)
+![Issues](https://img.shields.io/badge/Issues-2-ff0000?style=flat-square)
 ![Language](https://img.shields.io/badge/Python-ff0000?style=flat-square)
-![License](https://img.shields.io/badge/Apache--2.0-ff0000?style=flat-square)
 
 </div>
 
@@ -250,23 +250,144 @@
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); margin: 10px;">
 
-### <span style="color: #ff0000;">▲</span> **[Recursive Hydra Prompt Engineering]**
+### <span style="color: #ff0000;">▲</span> **[cybersec-hub]**
 <div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
 
-**`Advanced Prompt Engineering for AI Security Research`**
+**`Centralized Security Operations & Intelligence Platform`**
 
 ```bash
-├── Type: Research Project
-├── Focus: AI/ML Security
-├── Features: Prompt Injection
+├── Language: TypeScript
+├── Focus: Security Operations Center
+├── Features: Threat Intelligence Hub
 └── Status: [▓▓▓▓▓▓▓▓░░] 80% COMPLETE
 ```
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Recursive_Hydra_Prompt_Engineering)
-![Type](https://img.shields.io/badge/Research-ff0000?style=flat-square)
-![Focus](https://img.shields.io/badge/AI_Security-ff0000?style=flat-square)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/cybersec-hub)
+![Issues](https://img.shields.io/badge/Issues-8-ff0000?style=flat-square)
+![Language](https://img.shields.io/badge/TypeScript-ff0000?style=flat-square)
 
 </div>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); margin: 10px;">
+
+### <span style="color: #ff0000;">▲</span> **[Azaz-El]**
+<div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
+
+**`Advanced Penetration Testing & Exploitation Toolkit`**
+
+```bash
+├── Language: Python
+├── Focus: Advanced Exploitation
+├── Features: Custom Attack Vectors
+└── Status: [▓▓▓▓▓▓▓░░░] 70% COMPLETE
+```
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Azaz-El)
+![Issues](https://img.shields.io/badge/Issues-2-ff0000?style=flat-square)
+![Language](https://img.shields.io/badge/Python-ff0000?style=flat-square)
+
+</div>
+
+</td>
+<td align="center" width="50%">
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); margin: 10px;">
+
+### <span style="color: #ff0000;">▲</span> **[Moloch]**
+<div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
+
+**`Network Analysis & Security Monitoring Platform`**
+
+```bash
+├── Language: Python
+├── Focus: Network Security
+├── Features: Traffic Analysis
+└── Status: [▓▓▓▓▓▓░░░░] 60% COMPLETE
+```
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Moloch)
+![Issues](https://img.shields.io/badge/Issues-1-ff0000?style=flat-square)
+![Language](https://img.shields.io/badge/Python-ff0000?style=flat-square)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); margin: 10px;">
+
+### <span style="color: #ff0000;">▲</span> **[Judgement]**
+<div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
+
+**`Security Assessment & Vulnerability Analysis Tool`**
+
+```bash
+├── Language: Python
+├── Focus: Vulnerability Assessment
+├── Features: Automated Analysis
+└── Status: [▓▓▓▓▓▓▓▓▓▓] OPERATIONAL
+```
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Judgement)
+![Language](https://img.shields.io/badge/Python-ff0000?style=flat-square)
+
+</div>
+
+</td>
+<td align="center" width="50%">
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); margin: 10px;">
+
+### <span style="color: #ff0000;">▲</span> **[Did-you-try-turning-it-on-and-off-again]**
+<div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
+
+**`System Diagnostics & PowerShell Automation Utility`**
+
+```bash
+├── Language: PowerShell
+├── Focus: System Administration
+├── Features: Automated Diagnostics
+└── Status: [▓▓▓▓▓▓▓▓▓▓] OPERATIONAL
+```
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Did-you-try-turning-it-on-and-off-again)
+![Language](https://img.shields.io/badge/PowerShell-ff0000?style=flat-square)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 15px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); margin: 10px;">
+
+### <span style="color: #ff0000;">▲</span> **[Micasa]**
+<div style="border-bottom: 1px solid #ff0000; margin: 10px 0;"></div>
+
+**`Personal Infrastructure & Home Lab Management`**
+
+```bash
+├── Type: Infrastructure
+├── Focus: Lab Automation
+├── Features: Environment Setup
+└── Status: [▓▓░░░░░░░░] 20% DEVELOPMENT
+```
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Micasa)
+![Issues](https://img.shields.io/badge/Issues-1-ff0000?style=flat-square)
+
+</div>
+
+</td>
+<td align="center" width="50%">
 
 </td>
 </tr>
