@@ -44,7 +44,9 @@
 
 **◢ STATUS:** `ACTIVE & ENGAGED`  
 **◢ GOAL:** `Identifying vulnerabilities before malicious actors do`  
-**◢ COMMITMENT:** `Responsible disclosure and ethical practices`
+**◢ COMMITMENT:** `Responsible disclosure and ethical practices`  
+**◢ PROJECTS:** `Developing advanced security tools, reconnaissance frameworks, and exploitation toolkits`  
+**◢ DEVELOPMENT:** `Building next-gen cybersecurity solutions and automation platforms`
 
 </div>
 
