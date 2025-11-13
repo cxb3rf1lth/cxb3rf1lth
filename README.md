@@ -29,13 +29,8 @@ AMVmmmmMM .JMMmmmmMMM .JMMmmmdP'   P"Ybmmd"  .JMMmmmmMMM   `"bmmmd'
 
 **◉ ROLE:** `Ethical Hacker & Cybersecurity Researcher`  
 **◉ NAME:** `cxb3rf1lth | Zee`  
-**◉ EXPERTISE:** `Penetration Tester & Security Tool Developer`  
-**◉ SPECIALIZATION:** `Vulnerability Research & Exploit Development`  
-**◉ FOCUS:** `Fortifying Digital Infrastructure Through Ethical Hacking`  
-
-**◢ STATUS:** `ACTIVE & ENGAGED`  
-**◢ GOAL:** `Identifying vulnerabilities before malicious actors do`  
-**◢ COMMITMENT:** `Responsible disclosure and ethical practices`  
+**◉ EXPERTISE:** `Penetration Tester & Automation solutions engineer`  
+**◉ SPECIALIZATION:** `Vulnerability Research, Exploit Development,  Automated workflow builds and custom software solution development`  `  
 **◢ PROJECTS:** `Developing advanced security tools, reconnaissance frameworks, and exploitation toolkits`  
 **◢ DEVELOPMENT:** `Building next-gen cybersecurity solutions and automation platforms`
 
