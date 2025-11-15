@@ -41,17 +41,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1500&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Bl4ckC3ll_Security;I'm+cxb3rf1lth%2FZee;Ethical+hacker.+Penetration+tester.;Bug+bounty+hunter.;Cybersecurity+researcher.;Always+learning+new+attack+vectors." alt="Typing SVG" />
 </div>
 
-```
-  __________         .___                    
-  \____    /____   __| _/______ ____   ____  
-    /     // __ \ / __ |/  ___// __ \_/ ___\ 
-   /     /\  ___// /_/ |\___ \\  ___/\  \___ 
-  /_______ \___  >____ /____  >\___  >\___  >
-          \/   \/     \/    \/     \/     \/ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                  
-  
-```
-
-
 <!-- Glitch Effect Divider -->
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
