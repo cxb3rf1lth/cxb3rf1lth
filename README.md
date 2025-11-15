@@ -5,14 +5,25 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1500&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Bl4ckC3ll_Security;I'm+cxb3rf1lth%2FZee;Ethical+hacker.+Penetration+tester.;Bug+bounty+hunter.;Cybersecurity+researcher.;Always+learning+new+attack+vectors." alt="Typing SVG" />
 </div>
 
-```                    
-MMM"""AMV `7MM"""YMM  `7MM"""Yb.    .M"""bgd `7MM"""YMM    .g8"""bgd                                       
-M'   AMV    MM    `7    MM    `Yb. ,MI    "Y   MM    `7  .dP'     `M                                       
-'   AMV     MM   d      MM     `Mb `MMb.       MM   d    dM'       `                                       
-   AMV      MMmmMM      MM      MM   `YMMNq.   MMmmMM    MM                                                
-  AMV   ,   MM   Y  ,   MM     ,MP .     `MM   MM   Y  , MM.                                               
- AMV   ,M   MM     ,M   MM    ,dP' Mb     dM   MM     ,M `Mb.     ,'                                       
-AMVmmmmMM .JMMmmmmMMM .JMMmmmdP'   P"Ybmmd"  .JMMmmmmMMM   `"bmmmd'                                                                           
+```
+ ___, ____,____,____,____,____, 
+(- / (-|_,(-|  (-(__(-|_,(-/    
+ _/__,_|__,_|__/____)_|__,_\__, 
+(    (    (    (    (    (      
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢠⠀⠘⠀⢀⡀⠀⠃⠀⡄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠠⡀⠈⢄⠀⢂⠀⣇⣾⣷⣼⠀⡐⠀⡠⠁⢀⠄⠀⠀⠀
+⠀⠀⠢⡀⠈⢂⠈⢂⠈⣤⣿⠋⠘⣿⣤⠁⡰⠁⡀⠁⢀⠔⠀⠀
+⠀⠢⢀⠈⠂⢄⠑⣄⣳⣿⠃⠀⠀⠈⢿⣞⣠⠊⡠⠒⠁⡠⠔⠀
+⠂⠤⢀⠈⠒⢤⣙⣾⡿⠁⠀⠀⠀⠀⠈⢿⣷⣊⡤⠒⢁⡀⠄⠂
+⠀⠤⠀⢈⣁⣒⣾⡟⣡⢴⣒⣛⣛⣓⣲⢤⣻⣷⣒⣉⠀⠤⠄⠀
+⠀⠤⠤⠤⠤⣼⡿⠛⠉⡏⢰⣿⣿⡇⢸⠉⠛⢿⣷⡖⠀⠀⠀⠀
+⠀⠀⠒⢒⣾⠏⠈⠢⣄⡹⢄⡙⢋⣡⢞⣀⠤⠊⠹⣿⡅⠐⠒⠀
+⠠⠔⢢⣿⠋⠀⠀⠀⠀⠈⠉⠛⠛⠉⠉⠀⠀⠀⠀⠘⣿⡅⠒⠠
+⠀⣠⣿⣧⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣬⣿⣦⠀
+⠀⠉⠩⠋⠉⠝⠉⡝⠉⠏⢹⠉⡏⢩⠙⡍⠹⡉⠙⠍⠉⠋⠉⠀
+⠀⠀⠀⠀⠀⠀⠌⠀⡘⠀⡄⠀⡇⠘⠀⠰⠀⠐⡀⠈⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠀⠰⠁⠀⠃⠀⠇⠀⠇⠀⠡⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                  
 ```
 
 
