@@ -3,14 +3,16 @@
 <div align="center">
 
 ```
-           _    _____       __ _ _ _   _     
-  _____  _| |__|___ / _ __ / _/ | | |_| |__  
- / __\ \/ / '_ \ |_ \| '__| |_| | | __| '_ \ 
-| (__ >  <| |_) |__) | |  |  _| | | |_| | | |
- \___/_/\_\_.__/____/|_|  |_| |_|_|\__|_| |_|
+          _   ___        _  , _      _     
+         | | /   \      | |/|| |    | |    
+ __      | |   __/ ,_   | | || |_|_ | |    
+/    /\/ |/ \_   \/  |  |/  ||/  |  |/ \   
+\___/ /\_/\_/\___/   |_/|__/||__/|_/|   |_/
+                        |\                 
+                        |/
 ```
 
-<sub>🎲 Randomly generated banner using figlet font: **standard** | Updates on every commit</sub>
+<sub>🎲 Randomly generated banner using figlet font: **script** | Updates on every commit</sub>
 
 </div>
 
@@ -20,6 +22,10 @@
 <!-- DYNAMIC_BANNER_END -->
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/cxb3rf1lth?label=FOLLOWERS&style=flat-square&color=red)
+![GitHub Stars](https://img.shields.io/github/stars/cxb3rf1lth?label=STARS&style=flat-square&color=red&affiliations=OWNER)
 
 ## 📋 TABLE OF CONTENTS
 
