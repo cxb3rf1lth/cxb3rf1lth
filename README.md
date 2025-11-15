@@ -1,3 +1,46 @@
+<!-- DYNAMIC_BANNER_START -->
+
+<div align="center">
+
+```
+                                                                          
+                       _/        _/_/_/                  _/_/    _/  _/   
+    _/_/_/  _/    _/  _/_/_/          _/  _/  _/_/    _/      _/_/  _/    
+ _/          _/_/    _/    _/    _/_/    _/_/      _/_/_/_/    _/  _/     
+_/        _/    _/  _/    _/        _/  _/          _/        _/  _/      
+ _/_/_/  _/    _/  _/_/_/    _/_/_/    _/          _/        _/  _/       
+                                                                          
+                                                                          
+                    
+   _/      _/       
+_/_/_/_/  _/_/_/    
+ _/      _/    _/   
+_/      _/    _/    
+ _/_/  _/    _/
+```
+
+<sub>🎲 Randomly generated banner using figlet font: **lean** | Updates on every commit</sub>
+
+</div>
+
+---
+
+
+<!-- DYNAMIC_BANNER_END -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=cxb3rf1lth&style=flat-square&color=red&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/cxb3rf1lth?label=FOLLOWERS&style=flat-square&color=red)
+![GitHub Stars](https://img.shields.io/github/stars/cxb3rf1lth?label=STARS&style=flat-square&color=red&affiliations=OWNER)
+
+## 📋 TABLE OF CONTENTS
+
+**[🔒 About](#-about-me)** • **[⚡ Skills](#-skills--expertise)** • **[🎯 Projects](#-current-projects)** • **[🛠️ Repository Showcase](#-repository-showcase)** • **[📊 Stats](#-github-stats)** • **[📈 Activity](#-activity)** • **[🤝 Community](#-community--collaboration)** • **[📬 Connect](#-connect)**
+
+</div>
+
+---
 
 <div align="center">
  <!-- Terminal Animation -->
@@ -33,6 +76,26 @@
 **◉ SPECIALIZATION:** `Vulnerability Research, Exploit Development,  Automated workflow builds and custom software solution development`  `  
 **◢ PROJECTS:** `Developing advanced security tools, reconnaissance frameworks, and exploitation toolkits`  
 **◢ DEVELOPMENT:** `Building next-gen cybersecurity solutions and automation platforms`
+
+</div>
+
+---
+
+## <span style="color: #ff0000;">▶</span> TECH STACK & TOOLS
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-ff0000?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-ff0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff0000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff0000?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-ff0000?style=for-the-badge&logo=go&logoColor=white)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-ff0000?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-ff0000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff0000?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-ff0000?style=for-the-badge&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ff0000?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -416,6 +479,19 @@
 
 ## <span style="color: #ff0000;">▶</span> ACTIVITY
 
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 1px solid #ff0000; padding: 20px; border-radius: 10px; margin: 20px 0;">
+
+### <span style="color: #ff0000;">◈</span> **RECENT ACTIVITY** <span style="color: #ff0000;">◈</span>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+<sub>🔄 Auto-updated via GitHub Actions | Last update tracked</sub>
+</div>
+
+</div>
+
 ---
 
 ## <span style="color: #ff0000;">▶</span> COMMUNITY & COLLABORATION
@@ -449,6 +525,20 @@ Your sponsorship enables advanced vulnerability research, open-source security t
 
 <div align="center">
 
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 2px solid #ff0000; padding: 20px; border-radius: 10px; margin: 20px 0;">
+
+### <span style="color: #ff0000;">◈</span> **GET IN TOUCH** <span style="color: #ff0000;">◈</span>
+
+[![GitHub](https://img.shields.io/badge/GitHub-cxb3rf1lth-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth)
+[![Twitter](https://img.shields.io/badge/Twitter-@cxb3rf1lth-ff0000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cxb3rf1lth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cxb3rf1lth)
+
+[![Email](https://img.shields.io/badge/Email-Contact-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cxb3rf1lth@protonmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat-ff0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/blackcell)
+
+</div>
+
+</div>
 
 <div align="center" style="margin: 30px 0;">
 

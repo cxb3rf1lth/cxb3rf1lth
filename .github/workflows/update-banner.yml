@@ -1,0 +1,55 @@
+name: Update Dynamic Banner
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-banner:
+    name: Generate and Update Banner
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install figlet
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y figlet
+      
+      - name: Make scripts executable
+        run: |
+          chmod +x .github/scripts/generate-banner.py
+          chmod +x .github/scripts/update-readme.py
+      
+      - name: Update README with new banner
+        run: |
+          python3 .github/scripts/update-readme.py
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code README.md || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "🎲 Update dynamic banner with random figlet font"
+          git push
