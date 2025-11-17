@@ -27,7 +27,7 @@
 
 ## 📋 TABLE OF CONTENTS
 
-**[🔒 About](#-about-me)** • **[⚡ Skills](#-skills--expertise)** • **[🎯 Projects](#-current-projects)** • **[🛠️ Repository Showcase](#-repository-showcase)** • **[📊 Stats](#-github-stats)** • **[📈 Activity](#-activity)** • **[🤝 Community](#-community--collaboration)** • **[📬 Connect](#-connect)**
+**[ About](#-about-me)** • **[ Skills](#-skills--expertise)** • **[ Projects](#-current-projects)** • **[ Repository Showcase](#-repository-showcase)** • **[ Stats](#-github-stats)** • **[ Activity](#-activity)** • **[ Community](#-community--collaboration)** • **[ Connect](#-connect)**
 
 </div>
 
@@ -135,15 +135,15 @@
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 1px solid #ff0000; padding: 15px; border-radius: 8px; margin: 15px 0;">
 
-**🎯 Active Projects:**
+** Active Projects:**
 - **`[TradeFlow]`** → Advanced trading platform and financial technology development
 - **`[Pantheon V2]`** → Next-generation automated reconnaissance framework
 - **`[CyberSec Hub]`** → Centralized security hub and intelligence platform
 - **`[Azaz-El]`** → Advanced penetration testing and exploitation toolkit
 
-**📡 Research:** `CONTINUOUS`  
-**🛡️ Development:** `ONGOING`  
-**⚔️ Testing:** `SCHEDULED`
+** Research:** `CONTINUOUS`  
+** Development:** `ONGOING`  
+** Testing:** `SCHEDULED`
 
 </div>
 
