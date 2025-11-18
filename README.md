@@ -463,11 +463,11 @@
 ### <span style="color: #ff0000;">◈</span> **RECENT ACTIVITY** <span style="color: #ff0000;">◈</span>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/cxb3rf1lth/TradeFlow/pull/24#issuecomment-3541100605) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
-2. 💪 Opened PR [#22](undefined) in [cxb3rf1lth/cybersec-hub](https://github.com/cxb3rf1lth/cybersec-hub)
-3. 🗣 Commented on [#20](https://github.com/cxb3rf1lth/TradeFlow/pull/20#issuecomment-3537032540) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
-4. 🗣 Commented on [#20](https://github.com/cxb3rf1lth/TradeFlow/pull/20#issuecomment-3537032079) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
-5. 🗣 Commented on [#20](https://github.com/cxb3rf1lth/TradeFlow/pull/20#issuecomment-3537031693) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
+1. ❌ Reopened PR [#29](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
+2. 🗣 Commented on [#28](https://github.com/cxb3rf1lth/TradeFlow/pull/28#issuecomment-3544032429) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
+3. 🗣 Commented on [#28](https://github.com/cxb3rf1lth/TradeFlow/pull/28#issuecomment-3544032062) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
+4. 🗣 Commented on [#22](https://github.com/cxb3rf1lth/cybersec-hub/pull/22#issuecomment-3543936018) in [cxb3rf1lth/cybersec-hub](https://github.com/cxb3rf1lth/cybersec-hub)
+5. ❌ Closed PR [#29](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
 <!--END_SECTION:activity-->
 
 <div align="center">
