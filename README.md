@@ -54,10 +54,43 @@
 
 **◉ ROLE:** `Ethical Hacker & Cybersecurity Researcher`  
 **◉ NAME:** `cxb3rf1lth | Zee`  
-**◉ EXPERTISE:** `Penetration Tester & Automation solutions engineer`  
-**◉ SPECIALIZATION:** `Vulnerability Research, Exploit Development,  Automated workflow builds and custom software solution development`  `  
-**◢ PROJECTS:** `Developing advanced security tools, reconnaissance frameworks, and exploitation toolkits`  
-**◢ DEVELOPMENT:** `Building next-gen cybersecurity solutions and automation platforms`
+**◉ WEBSITE:** `https://cxb3rf1lth.github.io`  
+**◉ EXPERTISE:** `Penetration Tester & Full-Stack Security Engineer`  
+**◉ SPECIALIZATION:** `Vulnerability Research, Exploit Development, Automated Workflow Builds & Custom Software Solutions`  
+**◢ PROJECTS:** `Developing advanced security tools, reconnaissance frameworks, exploitation toolkits, and financial technology platforms`  
+**◢ DEVELOPMENT:** `Building next-gen cybersecurity solutions, automation platforms, and production-ready applications`
+
+</div>
+
+---
+
+## <span style="color: #ff0000;">▶</span> RECENT ACHIEVEMENTS
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border-left: 4px solid #00ff00; padding: 20px; margin: 15px 0; border-radius: 8px;">
+
+### <span style="color: #00ff00;">◈</span> 2024 Highlights
+
+**🚀 TradeFlow Production Deployment**
+- Deployed production-ready trading platform with CRM and analytics
+- Implemented comprehensive type safety across 50+ components
+- Created single-command setup and deployment system
+- Resolved critical build issues and optimized for production
+
+**🏗️ Micasa Infrastructure Modernization**
+- Built AWS-ready infrastructure with Docker containerization
+- Implemented structured logging with CloudWatch integration
+- Added PostgreSQL support for RDS deployment
+- Created comprehensive deployment documentation
+
+**🛠️ Full-Stack Development Expansion**
+- Expanded from security-focused to full-stack security engineering
+- Built production-grade applications with modern tech stacks
+- Implemented DevOps best practices and CI/CD pipelines
+
+**🔒 Continuous Security Research**
+- Active development on multiple security tools and frameworks
+- Contributing to open-source security community
+- Regular updates to reconnaissance and exploitation toolkits
 
 </div>
 
@@ -71,13 +104,18 @@
 ![Bash](https://img.shields.io/badge/Bash-ff0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff0000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ff0000?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-ff0000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-ff0000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-ff0000?style=for-the-badge&logo=go&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-ff0000?style=for-the-badge&logo=powershell&logoColor=white)
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-ff0000?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-ff0000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff0000?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-ff0000?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-ff0000?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ff0000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff0000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -106,10 +144,13 @@
 ### <span style="color: #ff0000;">⟪</span> TOOL DEVELOPMENT <span style="color: #ff0000;">⟫</span>
 ```bash
 ┌─[CODING_SKILLS] 
+├── Full-Stack Application Development
 ├── Python Security Scripts
+├── TypeScript/React Applications
 ├── Bash Automation Tools
 ├── Custom Exploit Frameworks
-├── Reconnaissance Utilities  
+├── Reconnaissance Utilities
+├── Cloud Infrastructure & DevOps
 └── Payload Generation Systems
 ```
 
@@ -138,10 +179,16 @@
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border: 1px solid #ff0000; padding: 15px; border-radius: 8px; margin: 15px 0;">
 
 ** Active Projects:**
-- **`[TradeFlow]`** → Advanced trading platform and financial technology development
+- **`[TradeFlow]`** → Advanced trading platform with CRM, financial tracking, and real-time analytics (Recently deployed with production optimizations)
+- **`[Micasa]`** → Personal infrastructure & home lab management platform with AWS deployment support (Major infrastructure update completed)
+- **`[CyberSec Hub]`** → Centralized security hub and intelligence platform with active development
 - **`[Pantheon V2]`** → Next-generation automated reconnaissance framework
-- **`[CyberSec Hub]`** → Centralized security hub and intelligence platform
 - **`[Azaz-El]`** → Advanced penetration testing and exploitation toolkit
+
+** Recent Milestones:**
+- ✅ TradeFlow: Production deployment, type safety improvements, single-command setup
+- ✅ Micasa: AWS-ready infrastructure with Docker, CloudWatch logging, PostgreSQL support
+- ✅ Active community engagement and collaboration on multiple security projects
 
 ** Research:** `CONTINUOUS`  
 ** Development:** `ONGOING`  
@@ -169,15 +216,16 @@
 **`Advanced Trading Platform & Financial Technology Stack`**
 
 ```bash
-├── Language: TypeScript
-├── Focus: Financial Trading Systems
-├── Features: Real-time Trading
-└── Status: [▓▓▓▓▓▓▓▓▓░] 90% ACTIVE
+├── Language: TypeScript, React
+├── Focus: CRM, Financial Tracking & Analytics
+├── Features: Real-time Trading, Type-Safe APIs
+└── Status: [▓▓▓▓▓▓▓▓▓▓] 95% PRODUCTION DEPLOYED
 ```
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/TradeFlow)
-![Issues](https://img.shields.io/badge/Issues-2-ff0000?style=flat-square)
+![Issues](https://img.shields.io/badge/Issues-7-ff0000?style=flat-square)
 ![Language](https://img.shields.io/badge/TypeScript-ff0000?style=flat-square)
+![Status](https://img.shields.io/badge/Status-DEPLOYED-00ff00?style=flat-square)
 
 </div>
 
@@ -199,7 +247,7 @@
 ```
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Bl4ckC3ll_PantheonV2)
-![Issues](https://img.shields.io/badge/Issues-2-ff0000?style=flat-square)
+![Issues](https://img.shields.io/badge/Issues-3-ff0000?style=flat-square)
 ![Language](https://img.shields.io/badge/Python-ff0000?style=flat-square)
 
 </div>
@@ -300,7 +348,7 @@
 ```
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/cybersec-hub)
-![Issues](https://img.shields.io/badge/Issues-8-ff0000?style=flat-square)
+![Issues](https://img.shields.io/badge/Issues-7-ff0000?style=flat-square)
 ![Language](https://img.shields.io/badge/TypeScript-ff0000?style=flat-square)
 
 </div>
@@ -412,14 +460,16 @@
 **`Personal Infrastructure & Home Lab Management`**
 
 ```bash
-├── Type: Infrastructure
-├── Focus: Lab Automation
-├── Features: Environment Setup
-└── Status: [▓▓░░░░░░░░] 20% DEVELOPMENT
+├── Type: Full-Stack Application
+├── Focus: Infrastructure Management & Automation
+├── Features: AWS Deployment, Docker, CloudWatch
+└── Status: [▓▓▓▓▓▓▓░░░] 70% ACTIVE DEVELOPMENT
 ```
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth/Micasa)
 ![Issues](https://img.shields.io/badge/Issues-1-ff0000?style=flat-square)
+![Language](https://img.shields.io/badge/JavaScript-ff0000?style=flat-square)
+![Status](https://img.shields.io/badge/AWS_Ready-00ff00?style=flat-square)
 
 </div>
 
@@ -516,6 +566,7 @@ Your sponsorship enables advanced vulnerability research, open-source security t
 
 ### <span style="color: #ff0000;">◈</span> **GET IN TOUCH** <span style="color: #ff0000;">◈</span>
 
+[![Website](https://img.shields.io/badge/Website-cxb3rf1lth.github.io-ff0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cxb3rf1lth.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-cxb3rf1lth-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxb3rf1lth)
 [![Twitter](https://img.shields.io/badge/Twitter-@cxb3rf1lth-ff0000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cxb3rf1lth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cxb3rf1lth)
