@@ -56,7 +56,7 @@
 **◉ NAME:** `cxb3rf1lth | Zee`  
 **◉ WEBSITE:** `https://cxb3rf1lth.github.io`  
 **◉ EXPERTISE:** `Penetration Tester & Full-Stack Security Engineer`  
-**◉ SPECIALIZATION:** `Vulnerability Research, Exploit Development, Automated Workflow Builds & Custom Software Solutions`  
+**◉ SPECIALIZATION:** `Vulnerability Research, Exploit Development, Automated Workflow Builds, & Custom Software Solutions`  
 **◢ PROJECTS:** `Developing advanced security tools, reconnaissance frameworks, exploitation toolkits, and financial technology platforms`  
 **◢ DEVELOPMENT:** `Building next-gen cybersecurity solutions, automation platforms, and production-ready applications`
 
@@ -148,10 +148,10 @@
 ├── Python Security Scripts
 ├── TypeScript/React Applications
 ├── Bash Automation Tools
-├── Custom Exploit Frameworks
-├── Reconnaissance Utilities
 ├── Cloud Infrastructure & DevOps
-└── Payload Generation Systems
+├── Custom Exploit Frameworks
+├── Payload Generation Systems
+└── Reconnaissance Utilities
 ```
 
 </td>
