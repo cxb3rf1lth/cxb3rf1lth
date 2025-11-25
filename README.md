@@ -48,9 +48,11 @@
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1a0a0a 100%); border-left: 4px solid #ff0000; padding: 20px; margin: 15px 0; border-radius: 8px;">
 
-**◉ ROLE:** `Ethical Hacker & Cybersecurity Researcher`  
-**◉ NAME:** `cxb3rf1lth | Zee`  
-**◉ WEBSITE:** `https://cxb3rf1lth.github.io`  
+**◉ ROLE:** `Ethical Hacker
+       -Cybersecurity Researcher
+       -Automations and workflow engineer
+       -Web application developer' 
+ **◉ WEBSITE:** `https://cxb3rf1lth.github.io`  
 **◉ EXPERTISE:** `Penetration Tester & Full-Stack Security Engineer`  
 **◉ SPECIALIZATION:** `Vulnerability Research, Exploit Development, Automated Workflow Builds & Custom Software Solutions`  
 **◢ PROJECTS:** `Developing advanced security tools, reconnaissance frameworks, exploitation toolkits, and financial technology platforms`  
@@ -66,24 +68,24 @@
 
 ### <span style="color: #00ff00;">◈</span> 2024 Highlights
 
-**🚀 TradeFlow Production Deployment**
+**TradeFlow Production Deployment**
 - Deployed production-ready trading platform with CRM and analytics
 - Implemented comprehensive type safety across 50+ components
 - Created single-command setup and deployment system
 - Resolved critical build issues and optimized for production
 
-**🏗️ Micasa Infrastructure Modernization**
+** Micasa Infrastructure Modernization**
 - Built AWS-ready infrastructure with Docker containerization
 - Implemented structured logging with CloudWatch integration
 - Added PostgreSQL support for RDS deployment
 - Created comprehensive deployment documentation
 
-**🛠️ Full-Stack Development Expansion**
+** Full-Stack Development Expansion**
 - Expanded from security-focused to full-stack security engineering
 - Built production-grade applications with modern tech stacks
 - Implemented DevOps best practices and CI/CD pipelines
 
-**🔒 Continuous Security Research**
+** Continuous Security Research**
 - Active development on multiple security tools and frameworks
 - Contributing to open-source security community
 - Regular updates to reconnaissance and exploitation toolkits
@@ -182,9 +184,9 @@
 - **`[Azaz-El]`** → Advanced penetration testing and exploitation toolkit
 
 ** Recent Milestones:**
-- ✅ TradeFlow: Production deployment, type safety improvements, single-command setup
-- ✅ Micasa: AWS-ready infrastructure with Docker, CloudWatch logging, PostgreSQL support
-- ✅ Active community engagement and collaboration on multiple security projects
+-  TradeFlow: Production deployment, type safety improvements, single-command setup
+-  Micasa: AWS-ready infrastructure with Docker, CloudWatch logging, PostgreSQL support
+-  Active community engagement and collaboration on multiple security projects
 
 ** Research:** `CONTINUOUS`  
 ** Development:** `ONGOING`  
@@ -512,15 +514,15 @@
 ### <span style="color: #ff0000;">◈</span> **RECENT ACTIVITY** <span style="color: #ff0000;">◈</span>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
-2. 💪 Opened PR [#29](undefined) in [cxb3rf1lth/cybersec-hub](https://github.com/cxb3rf1lth/cybersec-hub)
-3. ❌ Reopened PR [#37](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
-4. ❌ Closed PR [#37](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
-5. 🗣 Commented on [#34](https://github.com/cxb3rf1lth/TradeFlow/pull/34#issuecomment-3550076597) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
+1.  Opened PR [#40](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
+2.  Opened PR [#29](undefined) in [cxb3rf1lth/cybersec-hub](https://github.com/cxb3rf1lth/cybersec-hub)
+3.  Reopened PR [#37](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
+4.  Closed PR [#37](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
+5.  Commented on [#34](https://github.com/cxb3rf1lth/TradeFlow/pull/34#issuecomment-3550076597) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
 <!--END_SECTION:activity-->
 
 <div align="center">
-<sub>🔄 Auto-updated via GitHub Actions | Last update tracked</sub>
+<sub> Auto-updated via GitHub Actions | Last update tracked</sub>
 </div>
 
 </div>
