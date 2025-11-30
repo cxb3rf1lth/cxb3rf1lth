@@ -516,11 +516,11 @@
 ### <span style="color: #ff0000;">◈</span> **RECENT ACTIVITY** <span style="color: #ff0000;">◈</span>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#1](undefined) in [cxb3rf1lth/Deriv_Synthetic_Daemon](https://github.com/cxb3rf1lth/Deriv_Synthetic_Daemon)
-2. 💪 Opened PR [#1](undefined) in [cxb3rf1lth/Deriv_Synthetic_Daemon](https://github.com/cxb3rf1lth/Deriv_Synthetic_Daemon)
-3. ❌ Labeled PR [#46](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
-4. 💪 Opened PR [#46](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
-5. ❌ Closed PR [#45](undefined) in [cxb3rf1lth/TradeFlow](https://github.com/cxb3rf1lth/TradeFlow)
+1. 💪 Opened PR [#29](undefined) in [cxb3rf1lth/cybersec-hub](https://github.com/cxb3rf1lth/cybersec-hub)
+2. 🗣 Commented on [#22](https://github.com/cxb3rf1lth/cybersec-hub/pull/22#issuecomment-3543936018) in [cxb3rf1lth/cybersec-hub](https://github.com/cxb3rf1lth/cybersec-hub)
+3. 💪 Opened PR [#14](undefined) in [cxb3rf1lth/Micasa](https://github.com/cxb3rf1lth/Micasa)
+4. 💪 Opened PR [#22](undefined) in [cxb3rf1lth/cybersec-hub](https://github.com/cxb3rf1lth/cybersec-hub)
+5. 🗣 Commented on [#12](https://github.com/cxb3rf1lth/Micasa/pull/12#issuecomment-3527585246) in [cxb3rf1lth/Micasa](https://github.com/cxb3rf1lth/Micasa)
 <!--END_SECTION:activity-->
 
 <div align="center">
