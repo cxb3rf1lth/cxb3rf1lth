@@ -3,14 +3,16 @@
 <div align="center">
 
 ```
-          ____        ,           
- _     |)  __/ ,_  |\/||\_|_ |)   
-/   /\/|/\_  \/  | |/ ||/ |  |/\  
-\__/ /\/\/\__/   |/|_/||_/|_/|  |/
-                   |)
+                      #####                  #                       
+ ####  #    # #####  #     # #####  ######  ##   #      ##### #    # 
+#    #  #  #  #    #       # #    # #      # #   #        #   #    # 
+#        ##   #####   #####  #    # #####    #   #        #   ###### 
+#        ##   #    #       # #####  #        #   #        #   #    # 
+#    #  #  #  #    # #     # #   #  #        #   #        #   #    # 
+ ####  #    # #####   #####  #    # #      ##### ######   #   #    #
 ```
 
-<sub>🎲 Randomly generated banner using figlet font: **smscript** | Updates on every commit</sub>
+<sub>🎲 Randomly generated banner using figlet font: **banner** | Updates on every commit</sub>
 
 </div>
 
