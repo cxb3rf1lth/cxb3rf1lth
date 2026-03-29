@@ -3,13 +3,23 @@
 <div align="center">
 
 ```
-  _   _   _   _   _   _   _   _   _   _  
- / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
-( c | x | b | 3 | r | f | 1 | l | t | h )
- \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/
+                                                                          
+                       _/        _/_/_/                  _/_/    _/  _/   
+    _/_/_/  _/    _/  _/_/_/          _/  _/  _/_/    _/      _/_/  _/    
+ _/          _/_/    _/    _/    _/_/    _/_/      _/_/_/_/    _/  _/     
+_/        _/    _/  _/    _/        _/  _/          _/        _/  _/      
+ _/_/_/  _/    _/  _/_/_/    _/_/_/    _/          _/        _/  _/       
+                                                                          
+                                                                          
+                    
+   _/      _/       
+_/_/_/_/  _/_/_/    
+ _/      _/    _/   
+_/      _/    _/    
+ _/_/  _/    _/
 ```
 
-<sub>🎲 Randomly generated banner using figlet font: **bubble** | Updates on every commit</sub>
+<sub>🎲 Randomly generated banner using figlet font: **lean** | Updates on every commit</sub>
 
 </div>
 
