@@ -3,12 +3,13 @@
 <div align="center">
 
 ```
-+-+-+-+-+-+-+-+-+-+-+
-|c|x|b|3|r|f|1|l|t|h|
-+-+-+-+-+-+-+-+-+-+-+
+        _    ____     __ _ _ _   _    
+ ____ _| |__|__ /_ _ / _/ | | |_| |_  
+/ _\ \ / '_ \|_ \ '_|  _| | |  _| ' \ 
+\__/_\_\_.__/___/_| |_| |_|_|\__|_||_|
 ```
 
-<sub>🎲 Randomly generated banner using figlet font: **digital** | Updates on every commit</sub>
+<sub>🎲 Randomly generated banner using figlet font: **small** | Updates on every commit</sub>
 
 </div>
 
