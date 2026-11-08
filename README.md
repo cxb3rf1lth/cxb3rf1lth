@@ -3,12 +3,23 @@
 <div align="center">
 
 ```
-          |   __ /    _|_ | | |   |    
-  _|\ \ /  _ \ _ \  _|_|  | |  _|   \  
-\__| _\_\_.__/___/_|_|   _|_|\__|_| _|
+                                                                          
+                       _/        _/_/_/                  _/_/    _/  _/   
+    _/_/_/  _/    _/  _/_/_/          _/  _/  _/_/    _/      _/_/  _/    
+ _/          _/_/    _/    _/    _/_/    _/_/      _/_/_/_/    _/  _/     
+_/        _/    _/  _/    _/        _/  _/          _/        _/  _/      
+ _/_/_/  _/    _/  _/_/_/    _/_/_/    _/          _/        _/  _/       
+                                                                          
+                                                                          
+                    
+   _/      _/       
+_/_/_/_/  _/_/_/    
+ _/      _/    _/   
+_/      _/    _/    
+ _/_/  _/    _/
 ```
 
-<sub>🎲 Randomly generated banner using figlet font: **smshadow** | Updates on every commit</sub>
+<sub>🎲 Randomly generated banner using figlet font: **lean** | Updates on every commit</sub>
 
 </div>
 
