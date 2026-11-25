@@ -3,13 +3,14 @@
 <div align="center">
 
 ```
-        _    ____     __ _ _ _   _    
- ____ _| |__|__ /_ _ / _/ | | |_| |_  
-/ _\ \ / '_ \|_ \ '_|  _| | |  _| ' \ 
-\__/_\_\_.__/___/_| |_| |_|_|\__|_||_|
+           _    _____       __ _ _ _   _     
+  _____  _| |__|___ / _ __ / _/ | | |_| |__  
+ / __\ \/ / '_ \ |_ \| '__| |_| | | __| '_ \ 
+| (__ >  <| |_) |__) | |  |  _| | | |_| | | |
+ \___/_/\_\_.__/____/|_|  |_| |_|_|\__|_| |_|
 ```
 
-<sub>🎲 Randomly generated banner using figlet font: **small** | Updates on every commit</sub>
+<sub>🎲 Randomly generated banner using figlet font: **standard** | Updates on every commit</sub>
 
 </div>
 
